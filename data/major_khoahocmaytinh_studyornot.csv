@@ -1,0 +1,2121 @@
+﻿StudentID,CourseID,Name,StudyOrNot,Semester,Group
+1,1,Những môn chính học kỳ 1,1,1,0
+1,2,Những môn chính học kỳ 2,1,2,0
+1,3,Logic học,0,2,1
+1,4,Phương pháp tính,0,2,1
+1,5,Vật lý đại cương,0,2,1
+1,6,Toán ứng dụng,1,2,1
+1,7,Hàm phức và phép biến đổi Laplace,0,2,1
+1,8,Những môn chính học kỳ 3,1,3,0
+1,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+1,10,Quản trị học,0,3,1
+1,11,Quản trị doanh nghiệp,0,3,1
+1,12,Kế toán cơ bản,0,3,1
+1,13,Môi trường và con người ,1,3,1
+1,14,Giao tiếp kinh doanh,0,3,1
+1,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+1,16,Những môn chính học kỳ 4,1,4,0
+1,17,Tính toán số & Matlab ,0,4,1
+1,18,Ngôn ngữ Python ,1,4,1
+1,19,Ngôn ngữ R ,0,4,1
+1,20,Lập trình hướng đối tượng ,1,4,2
+1,21,Lập trình phân tích dữ liệu 1 ,0,4,2
+1,22,Kỹ thuật điện tử ,0,4,2
+1,23,Những môn chính học kỳ 5,1,5,0
+1,24,Lập trình hướng sự kiện với công nghệ .NET ,0,5,1
+1,25,Lập trình hướng sự kiện với công nghệ Java ,1,5,1
+1,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+1,27,Automat & ngôn ngữ hình thức ,1,5,2
+1,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+1,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,0,5,2
+1,30,Những môn chính học kỳ 6,1,6,0
+1,31,Quản lý dự án CNTT ,0,6,1
+1,32,Nhập môn dữ liệu lớn ,0,6,1
+1,33,Tiếp thị điện tử ,0,6,1
+1,34,Tương tác người máy ,1,6,1
+1,35,Khai thác dữ liệu và ứng dụng ,0,6,2
+1,36,Lập trình phân tán với công nghệ .NET ,0,6,2
+1,37,Lập trình phân tán với công nghệ Java ,1,6,2
+1,38,Những môn chính học kỳ 7,1,7,0
+1,39,Tâm lí học đại cương,0,7,1
+1,40,Cơ sở văn hóa Việt Nam,0,7,1
+1,41,Xã hội học,0,7,1
+1,42,Tiếng Việt thực hành,1,7,1
+1,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,1
+1,44,Hội họa,0,7,1
+1,45,Những môn chính học kỳ 8,1,8,0
+1,46,Đồ họa máy tính ,0,8,1
+1,47,Đảm bảo chất lượng và Kiểm ,0,8,1
+1,48,Công nghệ IoT hiện đại ,0,8,1
+1,49,Xử lý ngôn ngữ tự nhiên ,1,8,2
+1,50,Công nghệ phần mềm ,0,8,2
+1,51,Ngôn ngữ lập trình ,0,8,2
+1,52,Phân tích và quản lý yêu cầu ,0,8,2
+1,53,Những môn chính học kỳ 9,1,9,0
+2,1,Những môn chính học kỳ 1,1,1,0
+2,2,Những môn chính học kỳ 2,1,2,0
+2,3,Logic học,0,2,1
+2,4,Phương pháp tính,0,2,1
+2,5,Vật lý đại cương,1,2,1
+2,6,Toán ứng dụng,0,2,1
+2,7,Hàm phức và phép biến đổi Laplace,0,2,1
+2,8,Những môn chính học kỳ 3,1,3,0
+2,9,Kỹ năng xây dựng kế hoạch ,1,3,1
+2,10,Quản trị học,0,3,1
+2,11,Quản trị doanh nghiệp,0,3,1
+2,12,Kế toán cơ bản,0,3,1
+2,13,Môi trường và con người ,0,3,1
+2,14,Giao tiếp kinh doanh,0,3,1
+2,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+2,16,Những môn chính học kỳ 4,1,4,0
+2,17,Tính toán số & Matlab ,0,4,1
+2,18,Ngôn ngữ Python ,1,4,1
+2,19,Ngôn ngữ R ,0,4,1
+2,20,Lập trình hướng đối tượng ,1,4,2
+2,21,Lập trình phân tích dữ liệu 1 ,0,4,2
+2,22,Kỹ thuật điện tử ,0,4,2
+2,23,Những môn chính học kỳ 5,1,5,0
+2,24,Lập trình hướng sự kiện với công nghệ .NET ,0,5,1
+2,25,Lập trình hướng sự kiện với công nghệ Java ,1,5,1
+2,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+2,27,Automat & ngôn ngữ hình thức ,1,5,2
+2,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+2,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,0,5,2
+2,30,Những môn chính học kỳ 6,1,6,0
+2,31,Quản lý dự án CNTT ,0,6,1
+2,32,Nhập môn dữ liệu lớn ,0,6,1
+2,33,Tiếp thị điện tử ,0,6,1
+2,34,Tương tác người máy ,1,6,1
+2,35,Khai thác dữ liệu và ứng dụng ,1,6,2
+2,36,Lập trình phân tán với công nghệ .NET ,0,6,2
+2,37,Lập trình phân tán với công nghệ Java ,0,6,2
+2,38,Những môn chính học kỳ 7,1,7,0
+2,39,Tâm lí học đại cương,0,7,1
+2,40,Cơ sở văn hóa Việt Nam,0,7,1
+2,41,Xã hội học,0,7,1
+2,42,Tiếng Việt thực hành,1,7,1
+2,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,1
+2,44,Hội họa,0,7,1
+2,45,Những môn chính học kỳ 8,1,8,0
+2,46,Đồ họa máy tính ,0,8,1
+2,47,Đảm bảo chất lượng và Kiểm ,0,8,1
+2,48,Công nghệ IoT hiện đại ,0,8,1
+2,49,Xử lý ngôn ngữ tự nhiên ,1,8,2
+2,50,Công nghệ phần mềm ,0,8,2
+2,51,Ngôn ngữ lập trình ,0,8,2
+2,52,Phân tích và quản lý yêu cầu ,0,8,2
+2,53,Những môn chính học kỳ 9,1,9,0
+3,1,Những môn chính học kỳ 1,1,1,0
+3,2,Những môn chính học kỳ 2,1,2,0
+3,3,Logic học,1,2,1
+3,4,Phương pháp tính,0,2,1
+3,5,Vật lý đại cương,0,2,1
+3,6,Toán ứng dụng,0,2,1
+3,7,Hàm phức và phép biến đổi Laplace,0,2,1
+3,8,Những môn chính học kỳ 3,1,3,0
+3,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+3,10,Quản trị học,0,3,1
+3,11,Quản trị doanh nghiệp,1,3,1
+3,12,Kế toán cơ bản,0,3,1
+3,13,Môi trường và con người ,0,3,1
+3,14,Giao tiếp kinh doanh,0,3,1
+3,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+3,16,Những môn chính học kỳ 4,1,4,0
+3,17,Tính toán số & Matlab ,0,4,1
+3,18,Ngôn ngữ Python ,0,4,1
+3,19,Ngôn ngữ R ,0,4,1
+3,20,Lập trình hướng đối tượng ,1,4,2
+3,21,Lập trình phân tích dữ liệu 1 ,0,4,2
+3,22,Kỹ thuật điện tử ,0,4,2
+3,23,Những môn chính học kỳ 5,1,5,0
+3,24,Lập trình hướng sự kiện với công nghệ .NET ,0,5,1
+3,25,Lập trình hướng sự kiện với công nghệ Java ,1,5,1
+3,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+3,27,Automat & ngôn ngữ hình thức ,0,5,2
+3,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+3,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,0,5,2
+3,30,Những môn chính học kỳ 6,1,6,0
+3,31,Quản lý dự án CNTT ,0,6,1
+3,32,Nhập môn dữ liệu lớn ,0,6,1
+3,33,Tiếp thị điện tử ,0,6,1
+3,34,Tương tác người máy ,1,6,1
+3,35,Khai thác dữ liệu và ứng dụng ,0,6,2
+3,36,Lập trình phân tán với công nghệ .NET ,0,6,2
+3,37,Lập trình phân tán với công nghệ Java ,0,6,2
+3,38,Những môn chính học kỳ 7,1,7,0
+3,39,Tâm lí học đại cương,1,7,1
+3,40,Cơ sở văn hóa Việt Nam,0,7,1
+3,41,Xã hội học,0,7,1
+3,42,Tiếng Việt thực hành,0,7,1
+3,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,1
+3,44,Hội họa,0,7,1
+3,45,Những môn chính học kỳ 8,1,8,0
+3,46,Đồ họa máy tính ,0,8,1
+3,47,Đảm bảo chất lượng và Kiểm ,0,8,1
+3,48,Công nghệ IoT hiện đại ,0,8,1
+3,49,Xử lý ngôn ngữ tự nhiên ,1,8,2
+3,50,Công nghệ phần mềm ,0,8,2
+3,51,Ngôn ngữ lập trình ,0,8,2
+3,52,Phân tích và quản lý yêu cầu ,0,8,2
+3,53,Những môn chính học kỳ 9,1,9,0
+4,1,Những môn chính học kỳ 1,1,1,0
+4,2,Những môn chính học kỳ 2,1,2,0
+4,3,Logic học,0,2,1
+4,4,Phương pháp tính,0,2,1
+4,5,Vật lý đại cương,0,2,1
+4,6,Toán ứng dụng,1,2,1
+4,7,Hàm phức và phép biến đổi Laplace,0,2,1
+4,8,Những môn chính học kỳ 3,1,3,0
+4,9,Kỹ năng xây dựng kế hoạch ,1,3,1
+4,10,Quản trị học,0,3,1
+4,11,Quản trị doanh nghiệp,0,3,1
+4,12,Kế toán cơ bản,0,3,1
+4,13,Môi trường và con người ,0,3,1
+4,14,Giao tiếp kinh doanh,0,3,1
+4,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+4,16,Những môn chính học kỳ 4,1,4,0
+4,17,Tính toán số & Matlab ,0,4,1
+4,18,Ngôn ngữ Python ,1,4,1
+4,19,Ngôn ngữ R ,0,4,1
+4,20,Lập trình hướng đối tượng ,1,4,2
+4,21,Lập trình phân tích dữ liệu 1 ,0,4,2
+4,22,Kỹ thuật điện tử ,0,4,2
+4,23,Những môn chính học kỳ 5,1,5,0
+4,24,Lập trình hướng sự kiện với công nghệ .NET ,0,5,1
+4,25,Lập trình hướng sự kiện với công nghệ Java ,1,5,1
+4,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+4,27,Automat & ngôn ngữ hình thức ,0,5,2
+4,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+4,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,0,5,2
+4,30,Những môn chính học kỳ 6,1,6,0
+4,31,Quản lý dự án CNTT ,0,6,1
+4,32,Nhập môn dữ liệu lớn ,1,6,1
+4,33,Tiếp thị điện tử ,0,6,1
+4,34,Tương tác người máy ,0,6,1
+4,35,Khai thác dữ liệu và ứng dụng ,0,6,2
+4,36,Lập trình phân tán với công nghệ .NET ,0,6,2
+4,37,Lập trình phân tán với công nghệ Java ,1,6,2
+4,38,Những môn chính học kỳ 7,1,7,0
+4,39,Tâm lí học đại cương,0,7,1
+4,40,Cơ sở văn hóa Việt Nam,1,7,1
+4,41,Xã hội học,0,7,1
+4,42,Tiếng Việt thực hành,0,7,1
+4,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,1
+4,44,Hội họa,0,7,1
+4,45,Những môn chính học kỳ 8,1,8,0
+4,46,Đồ họa máy tính ,0,8,1
+4,47,Đảm bảo chất lượng và Kiểm ,0,8,1
+4,48,Công nghệ IoT hiện đại ,0,8,1
+4,49,Xử lý ngôn ngữ tự nhiên ,1,8,2
+4,50,Công nghệ phần mềm ,0,8,2
+4,51,Ngôn ngữ lập trình ,0,8,2
+4,52,Phân tích và quản lý yêu cầu ,0,8,2
+4,53,Những môn chính học kỳ 9,1,9,0
+5,1,Những môn chính học kỳ 1,1,1,0
+5,2,Những môn chính học kỳ 2,1,2,0
+5,3,Logic học,0,2,1
+5,4,Phương pháp tính,0,2,1
+5,5,Vật lý đại cương,0,2,1
+5,6,Toán ứng dụng,1,2,1
+5,7,Hàm phức và phép biến đổi Laplace,0,2,1
+5,8,Những môn chính học kỳ 3,1,3,0
+5,9,Kỹ năng xây dựng kế hoạch ,1,3,1
+5,10,Quản trị học,0,3,1
+5,11,Quản trị doanh nghiệp,0,3,1
+5,12,Kế toán cơ bản,0,3,1
+5,13,Môi trường và con người ,0,3,1
+5,14,Giao tiếp kinh doanh,0,3,1
+5,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+5,16,Những môn chính học kỳ 4,1,4,0
+5,17,Tính toán số & Matlab ,0,4,1
+5,18,Ngôn ngữ Python ,1,4,1
+5,19,Ngôn ngữ R ,0,4,1
+5,20,Lập trình hướng đối tượng ,1,4,2
+5,21,Lập trình phân tích dữ liệu 1 ,0,4,2
+5,22,Kỹ thuật điện tử ,0,4,2
+5,23,Những môn chính học kỳ 5,1,5,0
+5,24,Lập trình hướng sự kiện với công nghệ .NET ,0,5,1
+5,25,Lập trình hướng sự kiện với công nghệ Java ,1,5,1
+5,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+5,27,Automat & ngôn ngữ hình thức ,1,5,2
+5,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+5,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,0,5,2
+5,30,Những môn chính học kỳ 6,1,6,0
+5,31,Quản lý dự án CNTT ,0,6,1
+5,32,Nhập môn dữ liệu lớn ,0,6,1
+5,33,Tiếp thị điện tử ,0,6,1
+5,34,Tương tác người máy ,1,6,1
+5,35,Khai thác dữ liệu và ứng dụng ,0,6,2
+5,36,Lập trình phân tán với công nghệ .NET ,0,6,2
+5,37,Lập trình phân tán với công nghệ Java ,1,6,2
+5,38,Những môn chính học kỳ 7,1,7,0
+5,39,Tâm lí học đại cương,0,7,1
+5,40,Cơ sở văn hóa Việt Nam,0,7,1
+5,41,Xã hội học,0,7,1
+5,42,Tiếng Việt thực hành,1,7,1
+5,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,1
+5,44,Hội họa,0,7,1
+5,45,Những môn chính học kỳ 8,1,8,0
+5,46,Đồ họa máy tính ,0,8,1
+5,47,Đảm bảo chất lượng và Kiểm ,0,8,1
+5,48,Công nghệ IoT hiện đại ,0,8,1
+5,49,Xử lý ngôn ngữ tự nhiên ,1,8,2
+5,50,Công nghệ phần mềm ,0,8,2
+5,51,Ngôn ngữ lập trình ,0,8,2
+5,52,Phân tích và quản lý yêu cầu ,0,8,2
+5,53,Những môn chính học kỳ 9,1,9,0
+6,1,Những môn chính học kỳ 1,1,1,0
+6,2,Những môn chính học kỳ 2,1,2,0
+6,3,Logic học,0,2,1
+6,4,Phương pháp tính,0,2,1
+6,5,Vật lý đại cương,0,2,1
+6,6,Toán ứng dụng,1,2,1
+6,7,Hàm phức và phép biến đổi Laplace,0,2,1
+6,8,Những môn chính học kỳ 3,1,3,0
+6,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+6,10,Quản trị học,0,3,1
+6,11,Quản trị doanh nghiệp,0,3,1
+6,12,Kế toán cơ bản,0,3,1
+6,13,Môi trường và con người ,0,3,1
+6,14,Giao tiếp kinh doanh,0,3,1
+6,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,1,3,1
+6,16,Những môn chính học kỳ 4,1,4,0
+6,17,Tính toán số & Matlab ,0,4,1
+6,18,Ngôn ngữ Python ,1,4,1
+6,19,Ngôn ngữ R ,0,4,1
+6,20,Lập trình hướng đối tượng ,1,4,2
+6,21,Lập trình phân tích dữ liệu 1 ,0,4,2
+6,22,Kỹ thuật điện tử ,0,4,2
+6,23,Những môn chính học kỳ 5,1,5,0
+6,24,Lập trình hướng sự kiện với công nghệ .NET ,0,5,1
+6,25,Lập trình hướng sự kiện với công nghệ Java ,1,5,1
+6,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+6,27,Automat & ngôn ngữ hình thức ,1,5,2
+6,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+6,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,0,5,2
+6,30,Những môn chính học kỳ 6,1,6,0
+6,31,Quản lý dự án CNTT ,0,6,1
+6,32,Nhập môn dữ liệu lớn ,1,6,1
+6,33,Tiếp thị điện tử ,0,6,1
+6,34,Tương tác người máy ,0,6,1
+6,35,Khai thác dữ liệu và ứng dụng ,0,6,2
+6,36,Lập trình phân tán với công nghệ .NET ,0,6,2
+6,37,Lập trình phân tán với công nghệ Java ,1,6,2
+6,38,Những môn chính học kỳ 7,1,7,0
+6,39,Tâm lí học đại cương,1,7,1
+6,40,Cơ sở văn hóa Việt Nam,0,7,1
+6,41,Xã hội học,0,7,1
+6,42,Tiếng Việt thực hành,0,7,1
+6,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,1
+6,44,Hội họa,0,7,1
+6,45,Những môn chính học kỳ 8,1,8,0
+6,46,Đồ họa máy tính ,0,8,1
+6,47,Đảm bảo chất lượng và Kiểm ,0,8,1
+6,48,Công nghệ IoT hiện đại ,0,8,1
+6,49,Xử lý ngôn ngữ tự nhiên ,1,8,2
+6,50,Công nghệ phần mềm ,0,8,2
+6,51,Ngôn ngữ lập trình ,0,8,2
+6,52,Phân tích và quản lý yêu cầu ,0,8,2
+6,53,Những môn chính học kỳ 9,1,9,0
+7,1,Những môn chính học kỳ 1,1,1,0
+7,2,Những môn chính học kỳ 2,1,2,0
+7,3,Logic học,0,2,1
+7,4,Phương pháp tính,1,2,1
+7,5,Vật lý đại cương,0,2,1
+7,6,Toán ứng dụng,0,2,1
+7,7,Hàm phức và phép biến đổi Laplace,0,2,1
+7,8,Những môn chính học kỳ 3,1,3,0
+7,9,Kỹ năng xây dựng kế hoạch ,1,3,1
+7,10,Quản trị học,0,3,1
+7,11,Quản trị doanh nghiệp,0,3,1
+7,12,Kế toán cơ bản,0,3,1
+7,13,Môi trường và con người ,0,3,1
+7,14,Giao tiếp kinh doanh,0,3,1
+7,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+7,16,Những môn chính học kỳ 4,1,4,0
+7,17,Tính toán số & Matlab ,0,4,1
+7,18,Ngôn ngữ Python ,1,4,1
+7,19,Ngôn ngữ R ,0,4,1
+7,20,Lập trình hướng đối tượng ,1,4,2
+7,21,Lập trình phân tích dữ liệu 1 ,0,4,2
+7,22,Kỹ thuật điện tử ,0,4,2
+7,23,Những môn chính học kỳ 5,1,5,0
+7,24,Lập trình hướng sự kiện với công nghệ .NET ,0,5,1
+7,25,Lập trình hướng sự kiện với công nghệ Java ,1,5,1
+7,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+7,27,Automat & ngôn ngữ hình thức ,1,5,2
+7,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+7,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,0,5,2
+7,30,Những môn chính học kỳ 6,1,6,0
+7,31,Quản lý dự án CNTT ,0,6,1
+7,32,Nhập môn dữ liệu lớn ,1,6,1
+7,33,Tiếp thị điện tử ,0,6,1
+7,34,Tương tác người máy ,0,6,1
+7,35,Khai thác dữ liệu và ứng dụng ,0,6,2
+7,36,Lập trình phân tán với công nghệ .NET ,0,6,2
+7,37,Lập trình phân tán với công nghệ Java ,1,6,2
+7,38,Những môn chính học kỳ 7,1,7,0
+7,39,Tâm lí học đại cương,1,7,1
+7,40,Cơ sở văn hóa Việt Nam,0,7,1
+7,41,Xã hội học,0,7,1
+7,42,Tiếng Việt thực hành,0,7,1
+7,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,1
+7,44,Hội họa,0,7,1
+7,45,Những môn chính học kỳ 8,1,8,0
+7,46,Đồ họa máy tính ,0,8,1
+7,47,Đảm bảo chất lượng và Kiểm ,0,8,1
+7,48,Công nghệ IoT hiện đại ,0,8,1
+7,49,Xử lý ngôn ngữ tự nhiên ,0,8,2
+7,50,Công nghệ phần mềm ,0,8,2
+7,51,Ngôn ngữ lập trình ,0,8,2
+7,52,Phân tích và quản lý yêu cầu ,1,8,2
+7,53,Những môn chính học kỳ 9,1,9,0
+8,1,Những môn chính học kỳ 1,1,1,0
+8,2,Những môn chính học kỳ 2,1,2,0
+8,3,Logic học,0,2,1
+8,4,Phương pháp tính,1,2,1
+8,5,Vật lý đại cương,0,2,1
+8,6,Toán ứng dụng,0,2,1
+8,7,Hàm phức và phép biến đổi Laplace,0,2,1
+8,8,Những môn chính học kỳ 3,1,3,0
+8,9,Kỹ năng xây dựng kế hoạch ,1,3,1
+8,10,Quản trị học,0,3,1
+8,11,Quản trị doanh nghiệp,0,3,1
+8,12,Kế toán cơ bản,0,3,1
+8,13,Môi trường và con người ,0,3,1
+8,14,Giao tiếp kinh doanh,0,3,1
+8,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+8,16,Những môn chính học kỳ 4,1,4,0
+8,17,Tính toán số & Matlab ,0,4,1
+8,18,Ngôn ngữ Python ,1,4,1
+8,19,Ngôn ngữ R ,0,4,1
+8,20,Lập trình hướng đối tượng ,1,4,2
+8,21,Lập trình phân tích dữ liệu 1 ,0,4,2
+8,22,Kỹ thuật điện tử ,0,4,2
+8,23,Những môn chính học kỳ 5,1,5,0
+8,24,Lập trình hướng sự kiện với công nghệ .NET ,1,5,1
+8,25,Lập trình hướng sự kiện với công nghệ Java ,0,5,1
+8,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+8,27,Automat & ngôn ngữ hình thức ,1,5,2
+8,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+8,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,0,5,2
+8,30,Những môn chính học kỳ 6,1,6,0
+8,31,Quản lý dự án CNTT ,0,6,1
+8,32,Nhập môn dữ liệu lớn ,0,6,1
+8,33,Tiếp thị điện tử ,0,6,1
+8,34,Tương tác người máy ,1,6,1
+8,35,Khai thác dữ liệu và ứng dụng ,1,6,2
+8,36,Lập trình phân tán với công nghệ .NET ,0,6,2
+8,37,Lập trình phân tán với công nghệ Java ,0,6,2
+8,38,Những môn chính học kỳ 7,1,7,0
+8,39,Tâm lí học đại cương,0,7,1
+8,40,Cơ sở văn hóa Việt Nam,0,7,1
+8,41,Xã hội học,0,7,1
+8,42,Tiếng Việt thực hành,1,7,1
+8,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,1
+8,44,Hội họa,0,7,1
+8,45,Những môn chính học kỳ 8,1,8,0
+8,46,Đồ họa máy tính ,0,8,1
+8,47,Đảm bảo chất lượng và Kiểm ,0,8,1
+8,48,Công nghệ IoT hiện đại ,0,8,1
+8,49,Xử lý ngôn ngữ tự nhiên ,1,8,2
+8,50,Công nghệ phần mềm ,0,8,2
+8,51,Ngôn ngữ lập trình ,0,8,2
+8,52,Phân tích và quản lý yêu cầu ,0,8,2
+8,53,Những môn chính học kỳ 9,1,9,0
+9,1,Những môn chính học kỳ 1,1,1,0
+9,2,Những môn chính học kỳ 2,1,2,0
+9,3,Logic học,0,2,1
+9,4,Phương pháp tính,0,2,1
+9,5,Vật lý đại cương,1,2,1
+9,6,Toán ứng dụng,0,2,1
+9,7,Hàm phức và phép biến đổi Laplace,0,2,1
+9,8,Những môn chính học kỳ 3,1,3,0
+9,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+9,10,Quản trị học,0,3,1
+9,11,Quản trị doanh nghiệp,1,3,1
+9,12,Kế toán cơ bản,0,3,1
+9,13,Môi trường và con người ,0,3,1
+9,14,Giao tiếp kinh doanh,0,3,1
+9,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+9,16,Những môn chính học kỳ 4,1,4,0
+9,17,Tính toán số & Matlab ,0,4,1
+9,18,Ngôn ngữ Python ,1,4,1
+9,19,Ngôn ngữ R ,0,4,1
+9,20,Lập trình hướng đối tượng ,0,4,2
+9,21,Lập trình phân tích dữ liệu 1 ,0,4,2
+9,22,Kỹ thuật điện tử ,0,4,2
+9,23,Những môn chính học kỳ 5,1,5,0
+9,24,Lập trình hướng sự kiện với công nghệ .NET ,0,5,1
+9,25,Lập trình hướng sự kiện với công nghệ Java ,1,5,1
+9,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+9,27,Automat & ngôn ngữ hình thức ,0,5,2
+9,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+9,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,0,5,2
+9,30,Những môn chính học kỳ 6,1,6,0
+9,31,Quản lý dự án CNTT ,0,6,1
+9,32,Nhập môn dữ liệu lớn ,1,6,1
+9,33,Tiếp thị điện tử ,0,6,1
+9,34,Tương tác người máy ,0,6,1
+9,35,Khai thác dữ liệu và ứng dụng ,0,6,2
+9,36,Lập trình phân tán với công nghệ .NET ,0,6,2
+9,37,Lập trình phân tán với công nghệ Java ,0,6,2
+9,38,Những môn chính học kỳ 7,1,7,0
+9,39,Tâm lí học đại cương,0,7,1
+9,40,Cơ sở văn hóa Việt Nam,0,7,1
+9,41,Xã hội học,0,7,1
+9,42,Tiếng Việt thực hành,0,7,1
+9,43,Âm nhạc - Nhạc lý và Guitar căn bản,1,7,1
+9,44,Hội họa,0,7,1
+9,45,Những môn chính học kỳ 8,1,8,0
+9,46,Đồ họa máy tính ,0,8,1
+9,47,Đảm bảo chất lượng và Kiểm ,0,8,1
+9,48,Công nghệ IoT hiện đại ,0,8,1
+9,49,Xử lý ngôn ngữ tự nhiên ,1,8,2
+9,50,Công nghệ phần mềm ,0,8,2
+9,51,Ngôn ngữ lập trình ,0,8,2
+9,52,Phân tích và quản lý yêu cầu ,0,8,2
+9,53,Những môn chính học kỳ 9,1,9,0
+10,1,Những môn chính học kỳ 1,1,1,0
+10,2,Những môn chính học kỳ 2,1,2,0
+10,3,Logic học,0,2,1
+10,4,Phương pháp tính,0,2,1
+10,5,Vật lý đại cương,1,2,1
+10,6,Toán ứng dụng,0,2,1
+10,7,Hàm phức và phép biến đổi Laplace,0,2,1
+10,8,Những môn chính học kỳ 3,1,3,0
+10,9,Kỹ năng xây dựng kế hoạch ,1,3,1
+10,10,Quản trị học,0,3,1
+10,11,Quản trị doanh nghiệp,0,3,1
+10,12,Kế toán cơ bản,0,3,1
+10,13,Môi trường và con người ,0,3,1
+10,14,Giao tiếp kinh doanh,0,3,1
+10,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+10,16,Những môn chính học kỳ 4,1,4,0
+10,17,Tính toán số & Matlab ,0,4,1
+10,18,Ngôn ngữ Python ,1,4,1
+10,19,Ngôn ngữ R ,0,4,1
+10,20,Lập trình hướng đối tượng ,1,4,2
+10,21,Lập trình phân tích dữ liệu 1 ,0,4,2
+10,22,Kỹ thuật điện tử ,0,4,2
+10,23,Những môn chính học kỳ 5,1,5,0
+10,24,Lập trình hướng sự kiện với công nghệ .NET ,0,5,1
+10,25,Lập trình hướng sự kiện với công nghệ Java ,1,5,1
+10,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+10,27,Automat & ngôn ngữ hình thức ,0,5,2
+10,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+10,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,0,5,2
+10,30,Những môn chính học kỳ 6,1,6,0
+10,31,Quản lý dự án CNTT ,0,6,1
+10,32,Nhập môn dữ liệu lớn ,0,6,1
+10,33,Tiếp thị điện tử ,0,6,1
+10,34,Tương tác người máy ,1,6,1
+10,35,Khai thác dữ liệu và ứng dụng ,0,6,2
+10,36,Lập trình phân tán với công nghệ .NET ,0,6,2
+10,37,Lập trình phân tán với công nghệ Java ,1,6,2
+10,38,Những môn chính học kỳ 7,1,7,0
+10,39,Tâm lí học đại cương,0,7,1
+10,40,Cơ sở văn hóa Việt Nam,0,7,1
+10,41,Xã hội học,0,7,1
+10,42,Tiếng Việt thực hành,1,7,1
+10,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,1
+10,44,Hội họa,0,7,1
+10,45,Những môn chính học kỳ 8,1,8,0
+10,46,Đồ họa máy tính ,0,8,1
+10,47,Đảm bảo chất lượng và Kiểm ,0,8,1
+10,48,Công nghệ IoT hiện đại ,0,8,1
+10,49,Xử lý ngôn ngữ tự nhiên ,0,8,2
+10,50,Công nghệ phần mềm ,1,8,2
+10,51,Ngôn ngữ lập trình ,0,8,2
+10,52,Phân tích và quản lý yêu cầu ,0,8,2
+10,53,Những môn chính học kỳ 9,1,9,0
+11,1,Những môn chính học kỳ 1,1,1,0
+11,2,Những môn chính học kỳ 2,1,2,0
+11,3,Logic học,0,2,1
+11,4,Phương pháp tính,0,2,1
+11,5,Vật lý đại cương,1,2,1
+11,6,Toán ứng dụng,0,2,1
+11,7,Hàm phức và phép biến đổi Laplace,0,2,1
+11,8,Những môn chính học kỳ 3,1,3,0
+11,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+11,10,Quản trị học,1,3,1
+11,11,Quản trị doanh nghiệp,0,3,1
+11,12,Kế toán cơ bản,0,3,1
+11,13,Môi trường và con người ,0,3,1
+11,14,Giao tiếp kinh doanh,0,3,1
+11,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+11,16,Những môn chính học kỳ 4,1,4,0
+11,17,Tính toán số & Matlab ,0,4,1
+11,18,Ngôn ngữ Python ,0,4,1
+11,19,Ngôn ngữ R ,0,4,1
+11,20,Lập trình hướng đối tượng ,1,4,2
+11,21,Lập trình phân tích dữ liệu 1 ,0,4,2
+11,22,Kỹ thuật điện tử ,0,4,2
+11,23,Những môn chính học kỳ 5,1,5,0
+11,24,Lập trình hướng sự kiện với công nghệ .NET ,0,5,1
+11,25,Lập trình hướng sự kiện với công nghệ Java ,1,5,1
+11,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+11,27,Automat & ngôn ngữ hình thức ,0,5,2
+11,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+11,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,1,5,2
+11,30,Những môn chính học kỳ 6,1,6,0
+11,31,Quản lý dự án CNTT ,0,6,1
+11,32,Nhập môn dữ liệu lớn ,0,6,1
+11,33,Tiếp thị điện tử ,0,6,1
+11,34,Tương tác người máy ,1,6,1
+11,35,Khai thác dữ liệu và ứng dụng ,0,6,2
+11,36,Lập trình phân tán với công nghệ .NET ,0,6,2
+11,37,Lập trình phân tán với công nghệ Java ,0,6,2
+11,38,Những môn chính học kỳ 7,1,7,0
+11,39,Tâm lí học đại cương,1,7,1
+11,40,Cơ sở văn hóa Việt Nam,0,7,1
+11,41,Xã hội học,0,7,1
+11,42,Tiếng Việt thực hành,0,7,1
+11,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,1
+11,44,Hội họa,0,7,1
+11,45,Những môn chính học kỳ 8,1,8,0
+11,46,Đồ họa máy tính ,0,8,1
+11,47,Đảm bảo chất lượng và Kiểm thử phần mềm,1,8,1
+11,48,Công nghệ IoT hiện đại ,0,8,1
+11,49,Xử lý ngôn ngữ tự nhiên ,0,8,2
+11,50,Công nghệ phần mềm ,0,8,2
+11,51,Ngôn ngữ lập trình ,0,8,2
+11,52,Phân tích và quản lý yêu cầu ,0,8,2
+11,53,Những môn chính học kỳ 9,1,9,0
+12,1,Những môn chính học kỳ 1,1,1,0
+12,2,Những môn chính học kỳ 2,1,2,0
+12,3,Logic học,1,2,1
+12,4,Phương pháp tính,0,2,1
+12,5,Vật lý đại cương,0,2,1
+12,6,Toán ứng dụng,0,2,1
+12,7,Hàm phức và phép biến đổi Laplace,0,2,1
+12,8,Những môn chính học kỳ 3,1,3,0
+12,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+12,10,Quản trị học,0,3,1
+12,11,Quản trị doanh nghiệp,0,3,1
+12,12,Kế toán cơ bản,0,3,1
+12,13,Môi trường và con người ,0,3,1
+12,14,Giao tiếp kinh doanh,0,3,1
+12,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,1,3,1
+12,16,Những môn chính học kỳ 4,1,4,0
+12,17,Tính toán số & Matlab ,0,4,1
+12,18,Ngôn ngữ Python ,1,4,1
+12,19,Ngôn ngữ R ,0,4,1
+12,20,Lập trình hướng đối tượng ,0,4,2
+12,21,Lập trình phân tích dữ liệu 1 ,0,4,2
+12,22,Kỹ thuật điện tử ,0,4,2
+12,23,Những môn chính học kỳ 5,1,5,0
+12,24,Lập trình hướng sự kiện với công nghệ .NET ,0,5,1
+12,25,Lập trình hướng sự kiện với công nghệ Java ,1,5,1
+12,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+12,27,Automat & ngôn ngữ hình thức ,0,5,2
+12,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+12,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,0,5,2
+12,30,Những môn chính học kỳ 6,1,6,0
+12,31,Quản lý dự án CNTT ,0,6,1
+12,32,Nhập môn dữ liệu lớn ,0,6,1
+12,33,Tiếp thị điện tử ,0,6,1
+12,34,Tương tác người máy ,0,6,1
+12,35,Khai thác dữ liệu và ứng dụng ,0,6,2
+12,36,Lập trình phân tán với công nghệ .NET ,0,6,2
+12,37,Lập trình phân tán với công nghệ Java ,1,6,2
+12,38,Những môn chính học kỳ 7,1,7,0
+12,39,Tâm lí học đại cương,0,7,1
+12,40,Cơ sở văn hóa Việt Nam,0,7,1
+12,41,Xã hội học,0,7,1
+12,42,Tiếng Việt thực hành,0,7,1
+12,43,Âm nhạc - Nhạc lý và Guitar căn bản,1,7,1
+12,44,Hội họa,0,7,1
+12,45,Những môn chính học kỳ 8,1,8,0
+12,46,Đồ họa máy tính ,0,8,1
+12,47,Đảm bảo chất lượng và Kiểm ,0,8,1
+12,48,Công nghệ IoT hiện đại ,0,8,1
+12,49,Xử lý ngôn ngữ tự nhiên ,0,8,2
+12,50,Công nghệ phần mềm ,0,8,2
+12,51,Ngôn ngữ lập trình ,1,8,2
+12,52,Phân tích và quản lý yêu cầu ,0,8,2
+12,53,Những môn chính học kỳ 9,1,9,0
+13,1,Những môn chính học kỳ 1,1,1,0
+13,2,Những môn chính học kỳ 2,1,2,0
+13,3,Logic học,0,2,1
+13,4,Phương pháp tính,1,2,1
+13,5,Vật lý đại cương,0,2,1
+13,6,Toán ứng dụng,0,2,1
+13,7,Hàm phức và phép biến đổi Laplace,0,2,1
+13,8,Những môn chính học kỳ 3,1,3,0
+13,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+13,10,Quản trị học,0,3,1
+13,11,Quản trị doanh nghiệp,0,3,1
+13,12,Kế toán cơ bản,0,3,1
+13,13,Môi trường và con người ,0,3,1
+13,14,Giao tiếp kinh doanh,1,3,1
+13,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+13,16,Những môn chính học kỳ 4,1,4,0
+13,17,Tính toán số & Matlab ,0,4,1
+13,18,Ngôn ngữ Python ,0,4,1
+13,19,Ngôn ngữ R ,0,4,1
+13,20,Lập trình hướng đối tượng ,1,4,2
+13,21,Lập trình phân tích dữ liệu 1 ,0,4,2
+13,22,Kỹ thuật điện tử ,0,4,2
+13,23,Những môn chính học kỳ 5,1,5,0
+13,24,Lập trình hướng sự kiện với công nghệ .NET ,0,5,1
+13,25,Lập trình hướng sự kiện với công nghệ Java ,1,5,1
+13,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+13,27,Automat & ngôn ngữ hình thức ,0,5,2
+13,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+13,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,1,5,2
+13,30,Những môn chính học kỳ 6,1,6,0
+13,31,Quản lý dự án CNTT ,0,6,1
+13,32,Nhập môn dữ liệu lớn ,1,6,1
+13,33,Tiếp thị điện tử ,0,6,1
+13,34,Tương tác người máy ,0,6,1
+13,35,Khai thác dữ liệu và ứng dụng ,0,6,2
+13,36,Lập trình phân tán với công nghệ .NET ,0,6,2
+13,37,Lập trình phân tán với công nghệ Java ,1,6,2
+13,38,Những môn chính học kỳ 7,1,7,0
+13,39,Tâm lí học đại cương,1,7,1
+13,40,Cơ sở văn hóa Việt Nam,0,7,1
+13,41,Xã hội học,0,7,1
+13,42,Tiếng Việt thực hành,0,7,1
+13,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,1
+13,44,Hội họa,0,7,1
+13,45,Những môn chính học kỳ 8,1,8,0
+13,46,Đồ họa máy tính ,0,8,1
+13,47,Đảm bảo chất lượng và Kiểm ,0,8,1
+13,48,Công nghệ IoT hiện đại ,0,8,1
+13,49,Xử lý ngôn ngữ tự nhiên ,1,8,2
+13,50,Công nghệ phần mềm ,0,8,2
+13,51,Ngôn ngữ lập trình ,0,8,2
+13,52,Phân tích và quản lý yêu cầu ,0,8,2
+13,53,Những môn chính học kỳ 9,1,9,0
+14,1,Những môn chính học kỳ 1,1,1,0
+14,2,Những môn chính học kỳ 2,1,2,0
+14,3,Logic học,0,2,1
+14,4,Phương pháp tính,1,2,1
+14,5,Vật lý đại cương,0,2,1
+14,6,Toán ứng dụng,0,2,1
+14,7,Hàm phức và phép biến đổi Laplace,0,2,1
+14,8,Những môn chính học kỳ 3,1,3,0
+14,9,Kỹ năng xây dựng kế hoạch ,1,3,1
+14,10,Quản trị học,0,3,1
+14,11,Quản trị doanh nghiệp,0,3,1
+14,12,Kế toán cơ bản,0,3,1
+14,13,Môi trường và con người ,0,3,1
+14,14,Giao tiếp kinh doanh,0,3,1
+14,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+14,16,Những môn chính học kỳ 4,1,4,0
+14,17,Tính toán số & Matlab ,0,4,1
+14,18,Ngôn ngữ Python ,0,4,1
+14,19,Ngôn ngữ R ,0,4,1
+14,20,Lập trình hướng đối tượng ,0,4,2
+14,21,Lập trình phân tích dữ liệu 1 ,0,4,2
+14,22,Kỹ thuật điện tử ,0,4,2
+14,23,Những môn chính học kỳ 5,1,5,0
+14,24,Lập trình hướng sự kiện với công nghệ .NET ,0,5,1
+14,25,Lập trình hướng sự kiện với công nghệ Java ,0,5,1
+14,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+14,27,Automat & ngôn ngữ hình thức ,0,5,2
+14,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+14,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,0,5,2
+14,30,Những môn chính học kỳ 6,1,6,0
+14,31,Quản lý dự án CNTT ,0,6,1
+14,32,Nhập môn dữ liệu lớn ,0,6,1
+14,33,Tiếp thị điện tử ,0,6,1
+14,34,Tương tác người máy ,0,6,1
+14,35,Khai thác dữ liệu và ứng dụng ,0,6,2
+14,36,Lập trình phân tán với công nghệ .NET ,0,6,2
+14,37,Lập trình phân tán với công nghệ Java ,0,6,2
+14,38,Những môn chính học kỳ 7,1,7,0
+14,39,Tâm lí học đại cương,0,7,1
+14,40,Cơ sở văn hóa Việt Nam,0,7,1
+14,41,Xã hội học,0,7,1
+14,42,Tiếng Việt thực hành,0,7,1
+14,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,1
+14,44,Hội họa,0,7,1
+14,45,Những môn chính học kỳ 8,1,8,0
+14,46,Đồ họa máy tính ,0,8,1
+14,47,Đảm bảo chất lượng và Kiểm ,0,8,1
+14,48,Công nghệ IoT hiện đại ,0,8,1
+14,49,Xử lý ngôn ngữ tự nhiên ,0,8,2
+14,50,Công nghệ phần mềm ,0,8,2
+14,51,Ngôn ngữ lập trình ,0,8,2
+14,52,Phân tích và quản lý yêu cầu ,0,8,2
+14,53,Những môn chính học kỳ 9,1,9,0
+15,1,Những môn chính học kỳ 1,1,1,0
+15,2,Những môn chính học kỳ 2,1,2,0
+15,3,Logic học,0,2,1
+15,4,Phương pháp tính,0,2,1
+15,5,Vật lý đại cương,1,2,1
+15,6,Toán ứng dụng,0,2,1
+15,7,Hàm phức và phép biến đổi Laplace,0,2,1
+15,8,Những môn chính học kỳ 3,1,3,0
+15,9,Kỹ năng xây dựng kế hoạch ,1,3,1
+15,10,Quản trị học,0,3,1
+15,11,Quản trị doanh nghiệp,0,3,1
+15,12,Kế toán cơ bản,0,3,1
+15,13,Môi trường và con người ,0,3,1
+15,14,Giao tiếp kinh doanh,0,3,1
+15,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+15,16,Những môn chính học kỳ 4,1,4,0
+15,17,Tính toán số & Matlab ,0,4,1
+15,18,Ngôn ngữ Python ,1,4,1
+15,19,Ngôn ngữ R ,0,4,1
+15,20,Lập trình hướng đối tượng ,1,4,2
+15,21,Lập trình phân tích dữ liệu 1 ,0,4,2
+15,22,Kỹ thuật điện tử ,0,4,2
+15,23,Những môn chính học kỳ 5,1,5,0
+15,24,Lập trình hướng sự kiện với công nghệ .NET ,0,5,1
+15,25,Lập trình hướng sự kiện với công nghệ Java ,1,5,1
+15,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+15,27,Automat & ngôn ngữ hình thức ,0,5,2
+15,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+15,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,1,5,2
+15,30,Những môn chính học kỳ 6,1,6,0
+15,31,Quản lý dự án CNTT ,0,6,1
+15,32,Nhập môn dữ liệu lớn ,1,6,1
+15,33,Tiếp thị điện tử ,0,6,1
+15,34,Tương tác người máy ,0,6,1
+15,35,Khai thác dữ liệu và ứng dụng ,0,6,2
+15,36,Lập trình phân tán với công nghệ .NET ,1,6,2
+15,37,Lập trình phân tán với công nghệ Java ,0,6,2
+15,38,Những môn chính học kỳ 7,1,7,0
+15,39,Tâm lí học đại cương,0,7,1
+15,40,Cơ sở văn hóa Việt Nam,1,7,1
+15,41,Xã hội học,0,7,1
+15,42,Tiếng Việt thực hành,0,7,1
+15,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,1
+15,44,Hội họa,0,7,1
+15,45,Những môn chính học kỳ 8,1,8,0
+15,46,Đồ họa máy tính ,0,8,1
+15,47,Đảm bảo chất lượng và Kiểm ,0,8,1
+15,48,Công nghệ IoT hiện đại ,1,8,1
+15,49,Xử lý ngôn ngữ tự nhiên ,1,8,2
+15,50,Công nghệ phần mềm ,0,8,2
+15,51,Ngôn ngữ lập trình ,0,8,2
+15,52,Phân tích và quản lý yêu cầu ,0,8,2
+15,53,Những môn chính học kỳ 9,1,9,0
+16,1,Những môn chính học kỳ 1,1,1,0
+16,2,Những môn chính học kỳ 2,1,2,0
+16,3,Logic học,0,2,1
+16,4,Phương pháp tính,1,2,1
+16,5,Vật lý đại cương,0,2,1
+16,6,Toán ứng dụng,0,2,1
+16,7,Hàm phức và phép biến đổi Laplace,0,2,1
+16,8,Những môn chính học kỳ 3,1,3,0
+16,9,Kỹ năng xây dựng kế hoạch ,1,3,1
+16,10,Quản trị học,0,3,1
+16,11,Quản trị doanh nghiệp,0,3,1
+16,12,Kế toán cơ bản,0,3,1
+16,13,Môi trường và con người ,0,3,1
+16,14,Giao tiếp kinh doanh,0,3,1
+16,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+16,16,Những môn chính học kỳ 4,1,4,0
+16,17,Tính toán số & Matlab ,0,4,1
+16,18,Ngôn ngữ Python ,1,4,1
+16,19,Ngôn ngữ R ,0,4,1
+16,20,Lập trình hướng đối tượng ,1,4,2
+16,21,Lập trình phân tích dữ liệu 1 ,0,4,2
+16,22,Kỹ thuật điện tử ,0,4,2
+16,23,Những môn chính học kỳ 5,1,5,0
+16,24,Lập trình hướng sự kiện với công nghệ .NET ,0,5,1
+16,25,Lập trình hướng sự kiện với công nghệ Java ,0,5,1
+16,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+16,27,Automat & ngôn ngữ hình thức ,0,5,2
+16,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+16,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,1,5,2
+16,30,Những môn chính học kỳ 6,1,6,0
+16,31,Quản lý dự án CNTT ,0,6,1
+16,32,Nhập môn dữ liệu lớn ,1,6,1
+16,33,Tiếp thị điện tử ,0,6,1
+16,34,Tương tác người máy ,0,6,1
+16,35,Khai thác dữ liệu và ứng dụng ,1,6,2
+16,36,Lập trình phân tán với công nghệ .NET ,0,6,2
+16,37,Lập trình phân tán với công nghệ Java ,0,6,2
+16,38,Những môn chính học kỳ 7,1,7,0
+16,39,Tâm lí học đại cương,0,7,1
+16,40,Cơ sở văn hóa Việt Nam,0,7,1
+16,41,Xã hội học,0,7,1
+16,42,Tiếng Việt thực hành,1,7,1
+16,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,1
+16,44,Hội họa,0,7,1
+16,45,Những môn chính học kỳ 8,1,8,0
+16,46,Đồ họa máy tính ,0,8,1
+16,47,Đảm bảo chất lượng và Kiểm ,0,8,1
+16,48,Công nghệ IoT hiện đại ,0,8,1
+16,49,Xử lý ngôn ngữ tự nhiên ,1,8,2
+16,50,Công nghệ phần mềm ,0,8,2
+16,51,Ngôn ngữ lập trình ,0,8,2
+16,52,Phân tích và quản lý yêu cầu ,0,8,2
+16,53,Những môn chính học kỳ 9,1,9,0
+17,1,Những môn chính học kỳ 1,1,1,0
+17,2,Những môn chính học kỳ 2,1,2,0
+17,3,Logic học,0,2,1
+17,4,Phương pháp tính,1,2,1
+17,5,Vật lý đại cương,0,2,1
+17,6,Toán ứng dụng,0,2,1
+17,7,Hàm phức và phép biến đổi Laplace,0,2,1
+17,8,Những môn chính học kỳ 3,1,3,0
+17,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+17,10,Quản trị học,0,3,1
+17,11,Quản trị doanh nghiệp,0,3,1
+17,12,Kế toán cơ bản,0,3,1
+17,13,Môi trường và con người ,0,3,1
+17,14,Giao tiếp kinh doanh,0,3,1
+17,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,1,3,1
+17,16,Những môn chính học kỳ 4,1,4,0
+17,17,Tính toán số & Matlab ,0,4,1
+17,18,Ngôn ngữ Python ,1,4,1
+17,19,Ngôn ngữ R ,0,4,1
+17,20,Lập trình hướng đối tượng ,0,4,2
+17,21,Lập trình phân tích dữ liệu 1 ,0,4,2
+17,22,Kỹ thuật điện tử ,0,4,2
+17,23,Những môn chính học kỳ 5,1,5,0
+17,24,Lập trình hướng sự kiện với công nghệ .NET ,0,5,1
+17,25,Lập trình hướng sự kiện với công nghệ Java ,0,5,1
+17,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+17,27,Automat & ngôn ngữ hình thức ,0,5,2
+17,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+17,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,1,5,2
+17,30,Những môn chính học kỳ 6,1,6,0
+17,31,Quản lý dự án CNTT ,0,6,1
+17,32,Nhập môn dữ liệu lớn ,1,6,1
+17,33,Tiếp thị điện tử ,0,6,1
+17,34,Tương tác người máy ,0,6,1
+17,35,Khai thác dữ liệu và ứng dụng ,0,6,2
+17,36,Lập trình phân tán với công nghệ .NET ,0,6,2
+17,37,Lập trình phân tán với công nghệ Java ,0,6,2
+17,38,Những môn chính học kỳ 7,1,7,0
+17,39,Tâm lí học đại cương,0,7,1
+17,40,Cơ sở văn hóa Việt Nam,1,7,1
+17,41,Xã hội học,0,7,1
+17,42,Tiếng Việt thực hành,0,7,1
+17,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,1
+17,44,Hội họa,0,7,1
+17,45,Những môn chính học kỳ 8,1,8,0
+17,46,Đồ họa máy tính ,0,8,1
+17,47,Đảm bảo chất lượng và Kiểm ,0,8,1
+17,48,Công nghệ IoT hiện đại ,0,8,1
+17,49,Xử lý ngôn ngữ tự nhiên ,0,8,2
+17,50,Công nghệ phần mềm ,0,8,2
+17,51,Ngôn ngữ lập trình ,1,8,2
+17,52,Phân tích và quản lý yêu cầu ,0,8,2
+17,53,Những môn chính học kỳ 9,1,9,0
+18,1,Những môn chính học kỳ 1,1,1,0
+18,2,Những môn chính học kỳ 2,1,2,0
+18,3,Logic học,0,2,1
+18,4,Phương pháp tính,0,2,1
+18,5,Vật lý đại cương,1,2,1
+18,6,Toán ứng dụng,0,2,1
+18,7,Hàm phức và phép biến đổi Laplace,0,2,1
+18,8,Những môn chính học kỳ 3,1,3,0
+18,9,Kỹ năng xây dựng kế hoạch ,1,3,1
+18,10,Quản trị học,0,3,1
+18,11,Quản trị doanh nghiệp,0,3,1
+18,12,Kế toán cơ bản,0,3,1
+18,13,Môi trường và con người ,0,3,1
+18,14,Giao tiếp kinh doanh,0,3,1
+18,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+18,16,Những môn chính học kỳ 4,1,4,0
+18,17,Tính toán số & Matlab ,0,4,1
+18,18,Ngôn ngữ Python ,1,4,1
+18,19,Ngôn ngữ R ,0,4,1
+18,20,Lập trình hướng đối tượng ,0,4,2
+18,21,Lập trình phân tích dữ liệu 1 ,0,4,2
+18,22,Kỹ thuật điện tử ,0,4,2
+18,23,Những môn chính học kỳ 5,1,5,0
+18,24,Lập trình hướng sự kiện với công nghệ .NET ,0,5,1
+18,25,Lập trình hướng sự kiện với công nghệ Java ,1,5,1
+18,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+18,27,Automat & ngôn ngữ hình thức ,0,5,2
+18,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+18,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,1,5,2
+18,30,Những môn chính học kỳ 6,1,6,0
+18,31,Quản lý dự án CNTT ,0,6,1
+18,32,Nhập môn dữ liệu lớn ,0,6,1
+18,33,Tiếp thị điện tử ,0,6,1
+18,34,Tương tác người máy ,0,6,1
+18,35,Khai thác dữ liệu và ứng dụng ,0,6,2
+18,36,Lập trình phân tán với công nghệ .NET ,0,6,2
+18,37,Lập trình phân tán với công nghệ Java ,1,6,2
+18,38,Những môn chính học kỳ 7,1,7,0
+18,39,Tâm lí học đại cương,1,7,1
+18,40,Cơ sở văn hóa Việt Nam,0,7,1
+18,41,Xã hội học,0,7,1
+18,42,Tiếng Việt thực hành,0,7,1
+18,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,1
+18,44,Hội họa,0,7,1
+18,45,Những môn chính học kỳ 8,1,8,0
+18,46,Đồ họa máy tính ,0,8,1
+18,47,Đảm bảo chất lượng và Kiểm ,0,8,1
+18,48,Công nghệ IoT hiện đại ,0,8,1
+18,49,Xử lý ngôn ngữ tự nhiên ,1,8,2
+18,50,Công nghệ phần mềm ,0,8,2
+18,51,Ngôn ngữ lập trình ,0,8,2
+18,52,Phân tích và quản lý yêu cầu ,0,8,2
+18,53,Những môn chính học kỳ 9,1,9,0
+19,1,Những môn chính học kỳ 1,1,1,0
+19,2,Những môn chính học kỳ 2,1,2,0
+19,3,Logic học,0,2,1
+19,4,Phương pháp tính,1,2,1
+19,5,Vật lý đại cương,0,2,1
+19,6,Toán ứng dụng,0,2,1
+19,7,Hàm phức và phép biến đổi Laplace,0,2,1
+19,8,Những môn chính học kỳ 3,1,3,0
+19,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+19,10,Quản trị học,0,3,1
+19,11,Quản trị doanh nghiệp,0,3,1
+19,12,Kế toán cơ bản,0,3,1
+19,13,Môi trường và con người ,0,3,1
+19,14,Giao tiếp kinh doanh,0,3,1
+19,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+19,16,Những môn chính học kỳ 4,1,4,0
+19,17,Tính toán số & Matlab ,0,4,1
+19,18,Ngôn ngữ Python ,0,4,1
+19,19,Ngôn ngữ R ,0,4,1
+19,20,Lập trình hướng đối tượng ,0,4,2
+19,21,Lập trình phân tích dữ liệu 1 ,0,4,2
+19,22,Kỹ thuật điện tử ,0,4,2
+19,23,Những môn chính học kỳ 5,1,5,0
+19,24,Lập trình hướng sự kiện với công nghệ .NET ,0,5,1
+19,25,Lập trình hướng sự kiện với công nghệ Java ,0,5,1
+19,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+19,27,Automat & ngôn ngữ hình thức ,0,5,2
+19,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+19,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,0,5,2
+19,30,Những môn chính học kỳ 6,1,6,0
+19,31,Quản lý dự án CNTT ,0,6,1
+19,32,Nhập môn dữ liệu lớn ,0,6,1
+19,33,Tiếp thị điện tử ,0,6,1
+19,34,Tương tác người máy ,0,6,1
+19,35,Khai thác dữ liệu và ứng dụng ,0,6,2
+19,36,Lập trình phân tán với công nghệ .NET ,0,6,2
+19,37,Lập trình phân tán với công nghệ Java ,0,6,2
+19,38,Những môn chính học kỳ 7,1,7,0
+19,39,Tâm lí học đại cương,0,7,1
+19,40,Cơ sở văn hóa Việt Nam,0,7,1
+19,41,Xã hội học,0,7,1
+19,42,Tiếng Việt thực hành,0,7,1
+19,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,1
+19,44,Hội họa,0,7,1
+19,45,Những môn chính học kỳ 8,1,8,0
+19,46,Đồ họa máy tính ,0,8,1
+19,47,Đảm bảo chất lượng và Kiểm ,0,8,1
+19,48,Công nghệ IoT hiện đại ,0,8,1
+19,49,Xử lý ngôn ngữ tự nhiên ,0,8,2
+19,50,Công nghệ phần mềm ,0,8,2
+19,51,Ngôn ngữ lập trình ,0,8,2
+19,52,Phân tích và quản lý yêu cầu ,0,8,2
+19,53,Những môn chính học kỳ 9,1,9,0
+20,1,Những môn chính học kỳ 1,1,1,0
+20,2,Những môn chính học kỳ 2,1,2,0
+20,3,Logic học,0,2,1
+20,4,Phương pháp tính,0,2,1
+20,5,Vật lý đại cương,1,2,1
+20,6,Toán ứng dụng,0,2,1
+20,7,Hàm phức và phép biến đổi Laplace,0,2,1
+20,8,Những môn chính học kỳ 3,1,3,0
+20,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+20,10,Quản trị học,0,3,1
+20,11,Quản trị doanh nghiệp,1,3,1
+20,12,Kế toán cơ bản,0,3,1
+20,13,Môi trường và con người ,0,3,1
+20,14,Giao tiếp kinh doanh,0,3,1
+20,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+20,16,Những môn chính học kỳ 4,1,4,0
+20,17,Tính toán số & Matlab ,0,4,1
+20,18,Ngôn ngữ Python ,1,4,1
+20,19,Ngôn ngữ R ,0,4,1
+20,20,Lập trình hướng đối tượng ,0,4,2
+20,21,Lập trình phân tích dữ liệu 1 ,1,4,2
+20,22,Kỹ thuật điện tử ,0,4,2
+20,23,Những môn chính học kỳ 5,1,5,0
+20,24,Lập trình hướng sự kiện với công nghệ .NET ,0,5,1
+20,25,Lập trình hướng sự kiện với công nghệ Java ,1,5,1
+20,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+20,27,Automat & ngôn ngữ hình thức ,1,5,2
+20,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+20,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,0,5,2
+20,30,Những môn chính học kỳ 6,1,6,0
+20,31,Quản lý dự án CNTT ,1,6,1
+20,32,Nhập môn dữ liệu lớn ,0,6,1
+20,33,Tiếp thị điện tử ,0,6,1
+20,34,Tương tác người máy ,0,6,1
+20,35,Khai thác dữ liệu và ứng dụng ,0,6,2
+20,36,Lập trình phân tán với công nghệ .NET ,0,6,2
+20,37,Lập trình phân tán với công nghệ Java ,1,6,2
+20,38,Những môn chính học kỳ 7,1,7,0
+20,39,Tâm lí học đại cương,1,7,1
+20,40,Cơ sở văn hóa Việt Nam,0,7,1
+20,41,Xã hội học,0,7,1
+20,42,Tiếng Việt thực hành,0,7,1
+20,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,1
+20,44,Hội họa,0,7,1
+20,45,Những môn chính học kỳ 8,1,8,0
+20,46,Đồ họa máy tính ,0,8,1
+20,47,Đảm bảo chất lượng và Kiểm ,0,8,1
+20,48,Công nghệ IoT hiện đại ,0,8,1
+20,49,Xử lý ngôn ngữ tự nhiên ,1,8,2
+20,50,Công nghệ phần mềm ,0,8,2
+20,51,Ngôn ngữ lập trình ,0,8,2
+20,52,Phân tích và quản lý yêu cầu ,0,8,2
+20,53,Những môn chính học kỳ 9,1,9,0
+21,1,Những môn chính học kỳ 1,1,1,0
+21,2,Những môn chính học kỳ 2,1,2,0
+21,3,Logic học,1,2,1
+21,4,Phương pháp tính,0,2,1
+21,5,Vật lý đại cương,0,2,1
+21,6,Toán ứng dụng,0,2,1
+21,7,Hàm phức và phép biến đổi Laplace,0,2,1
+21,8,Những môn chính học kỳ 3,1,3,0
+21,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+21,10,Quản trị học,0,3,1
+21,11,Quản trị doanh nghiệp,0,3,1
+21,12,Kế toán cơ bản,0,3,1
+21,13,Môi trường và con người ,0,3,1
+21,14,Giao tiếp kinh doanh,0,3,1
+21,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+21,16,Những môn chính học kỳ 4,1,4,0
+21,17,Tính toán số & Matlab ,0,4,1
+21,18,Ngôn ngữ Python ,0,4,1
+21,19,Ngôn ngữ R ,0,4,1
+21,20,Lập trình hướng đối tượng ,0,4,2
+21,21,Lập trình phân tích dữ liệu 1 ,0,4,2
+21,22,Kỹ thuật điện tử ,0,4,2
+21,23,Những môn chính học kỳ 5,1,5,0
+21,24,Lập trình hướng sự kiện với công nghệ .NET ,0,5,1
+21,25,Lập trình hướng sự kiện với công nghệ Java ,0,5,1
+21,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+21,27,Automat & ngôn ngữ hình thức ,0,5,2
+21,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+21,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,0,5,2
+21,30,Những môn chính học kỳ 6,1,6,0
+21,31,Quản lý dự án CNTT ,0,6,1
+21,32,Nhập môn dữ liệu lớn ,0,6,1
+21,33,Tiếp thị điện tử ,0,6,1
+21,34,Tương tác người máy ,0,6,1
+21,35,Khai thác dữ liệu và ứng dụng ,0,6,2
+21,36,Lập trình phân tán với công nghệ .NET ,0,6,2
+21,37,Lập trình phân tán với công nghệ Java ,0,6,2
+21,38,Những môn chính học kỳ 7,1,7,0
+21,39,Tâm lí học đại cương,0,7,1
+21,40,Cơ sở văn hóa Việt Nam,0,7,1
+21,41,Xã hội học,0,7,1
+21,42,Tiếng Việt thực hành,0,7,1
+21,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,1
+21,44,Hội họa,0,7,1
+21,45,Những môn chính học kỳ 8,1,8,0
+21,46,Đồ họa máy tính ,0,8,1
+21,47,Đảm bảo chất lượng và Kiểm ,0,8,1
+21,48,Công nghệ IoT hiện đại ,0,8,1
+21,49,Xử lý ngôn ngữ tự nhiên ,0,8,2
+21,50,Công nghệ phần mềm ,0,8,2
+21,51,Ngôn ngữ lập trình ,0,8,2
+21,52,Phân tích và quản lý yêu cầu ,0,8,2
+21,53,Những môn chính học kỳ 9,1,9,0
+22,1,Những môn chính học kỳ 1,1,1,0
+22,2,Những môn chính học kỳ 2,1,2,0
+22,3,Logic học,0,2,1
+22,4,Phương pháp tính,1,2,1
+22,5,Vật lý đại cương,0,2,1
+22,6,Toán ứng dụng,0,2,1
+22,7,Hàm phức và phép biến đổi Laplace,0,2,1
+22,8,Những môn chính học kỳ 3,1,3,0
+22,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+22,10,Quản trị học,0,3,1
+22,11,Quản trị doanh nghiệp,0,3,1
+22,12,Kế toán cơ bản,0,3,1
+22,13,Môi trường và con người ,0,3,1
+22,14,Giao tiếp kinh doanh,1,3,1
+22,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+22,16,Những môn chính học kỳ 4,1,4,0
+22,17,Tính toán số & Matlab ,0,4,1
+22,18,Ngôn ngữ Python ,1,4,1
+22,19,Ngôn ngữ R ,0,4,1
+22,20,Lập trình hướng đối tượng ,0,4,2
+22,21,Lập trình phân tích dữ liệu 1 ,0,4,2
+22,22,Kỹ thuật điện tử ,0,4,2
+22,23,Những môn chính học kỳ 5,1,5,0
+22,24,Lập trình hướng sự kiện với công nghệ .NET ,0,5,1
+22,25,Lập trình hướng sự kiện với công nghệ Java ,0,5,1
+22,26,Lập trình hướng GUI với Qt FrameWork ,1,5,1
+22,27,Automat & ngôn ngữ hình thức ,1,5,2
+22,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+22,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,0,5,2
+22,30,Những môn chính học kỳ 6,1,6,0
+22,31,Quản lý dự án CNTT ,0,6,1
+22,32,Nhập môn dữ liệu lớn ,0,6,1
+22,33,Tiếp thị điện tử ,0,6,1
+22,34,Tương tác người máy ,0,6,1
+22,35,Khai thác dữ liệu và ứng dụng ,0,6,2
+22,36,Lập trình phân tán với công nghệ .NET ,0,6,2
+22,37,Lập trình phân tán với công nghệ Java ,0,6,2
+22,38,Những môn chính học kỳ 7,1,7,0
+22,39,Tâm lí học đại cương,0,7,1
+22,40,Cơ sở văn hóa Việt Nam,0,7,1
+22,41,Xã hội học,0,7,1
+22,42,Tiếng Việt thực hành,0,7,1
+22,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,1
+22,44,Hội họa,1,7,1
+22,45,Những môn chính học kỳ 8,1,8,0
+22,46,Đồ họa máy tính ,1,8,1
+22,47,Đảm bảo chất lượng và Kiểm ,0,8,1
+22,48,Công nghệ IoT hiện đại ,0,8,1
+22,49,Xử lý ngôn ngữ tự nhiên ,0,8,2
+22,50,Công nghệ phần mềm ,0,8,2
+22,51,Ngôn ngữ lập trình ,0,8,2
+22,52,Phân tích và quản lý yêu cầu ,0,8,2
+22,53,Những môn chính học kỳ 9,1,9,0
+23,1,Những môn chính học kỳ 1,1,1,0
+23,2,Những môn chính học kỳ 2,1,2,0
+23,3,Logic học,1,2,1
+23,4,Phương pháp tính,0,2,1
+23,5,Vật lý đại cương,0,2,1
+23,6,Toán ứng dụng,0,2,1
+23,7,Hàm phức và phép biến đổi Laplace,0,2,1
+23,8,Những môn chính học kỳ 3,1,3,0
+23,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+23,10,Quản trị học,0,3,1
+23,11,Quản trị doanh nghiệp,0,3,1
+23,12,Kế toán cơ bản,0,3,1
+23,13,Môi trường và con người ,0,3,1
+23,14,Giao tiếp kinh doanh,0,3,1
+23,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,1,3,1
+23,16,Những môn chính học kỳ 4,1,4,0
+23,17,Tính toán số & Matlab ,0,4,1
+23,18,Ngôn ngữ Python ,0,4,1
+23,19,Ngôn ngữ R ,0,4,1
+23,20,Lập trình hướng đối tượng ,1,4,2
+23,21,Lập trình phân tích dữ liệu 1 ,0,4,2
+23,22,Kỹ thuật điện tử ,0,4,2
+23,23,Những môn chính học kỳ 5,1,5,0
+23,24,Lập trình hướng sự kiện với công nghệ .NET ,0,5,1
+23,25,Lập trình hướng sự kiện với công nghệ Java ,0,5,1
+23,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+23,27,Automat & ngôn ngữ hình thức ,0,5,2
+23,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+23,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,0,5,2
+23,30,Những môn chính học kỳ 6,1,6,0
+23,31,Quản lý dự án CNTT ,0,6,1
+23,32,Nhập môn dữ liệu lớn ,0,6,1
+23,33,Tiếp thị điện tử ,0,6,1
+23,34,Tương tác người máy ,0,6,1
+23,35,Khai thác dữ liệu và ứng dụng ,0,6,2
+23,36,Lập trình phân tán với công nghệ .NET ,0,6,2
+23,37,Lập trình phân tán với công nghệ Java ,0,6,2
+23,38,Những môn chính học kỳ 7,1,7,0
+23,39,Tâm lí học đại cương,0,7,1
+23,40,Cơ sở văn hóa Việt Nam,0,7,1
+23,41,Xã hội học,0,7,1
+23,42,Tiếng Việt thực hành,0,7,1
+23,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,1
+23,44,Hội họa,0,7,1
+23,45,Những môn chính học kỳ 8,1,8,0
+23,46,Đồ họa máy tính ,0,8,1
+23,47,Đảm bảo chất lượng và Kiểm ,0,8,1
+23,48,Công nghệ IoT hiện đại ,0,8,1
+23,49,Xử lý ngôn ngữ tự nhiên ,0,8,2
+23,50,Công nghệ phần mềm ,0,8,2
+23,51,Ngôn ngữ lập trình ,0,8,2
+23,52,Phân tích và quản lý yêu cầu ,0,8,2
+23,53,Những môn chính học kỳ 9,1,9,0
+24,1,Những môn chính học kỳ 1,1,1,0
+24,2,Những môn chính học kỳ 2,1,2,0
+24,3,Logic học,1,2,1
+24,4,Phương pháp tính,0,2,1
+24,5,Vật lý đại cương,0,2,1
+24,6,Toán ứng dụng,0,2,1
+24,7,Hàm phức và phép biến đổi Laplace,0,2,1
+24,8,Những môn chính học kỳ 3,1,3,0
+24,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+24,10,Quản trị học,1,3,1
+24,11,Quản trị doanh nghiệp,0,3,1
+24,12,Kế toán cơ bản,0,3,1
+24,13,Môi trường và con người ,0,3,1
+24,14,Giao tiếp kinh doanh,0,3,1
+24,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+24,16,Những môn chính học kỳ 4,1,4,0
+24,17,Tính toán số & Matlab ,0,4,1
+24,18,Ngôn ngữ Python ,1,4,1
+24,19,Ngôn ngữ R ,0,4,1
+24,20,Lập trình hướng đối tượng ,1,4,2
+24,21,Lập trình phân tích dữ liệu 1 ,0,4,2
+24,22,Kỹ thuật điện tử ,0,4,2
+24,23,Những môn chính học kỳ 5,1,5,0
+24,24,Lập trình hướng sự kiện với công nghệ .NET ,0,5,1
+24,25,Lập trình hướng sự kiện với công nghệ Java ,1,5,1
+24,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+24,27,Automat & ngôn ngữ hình thức ,0,5,2
+24,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+24,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,1,5,2
+24,30,Những môn chính học kỳ 6,1,6,0
+24,31,Quản lý dự án CNTT ,1,6,1
+24,32,Nhập môn dữ liệu lớn ,0,6,1
+24,33,Tiếp thị điện tử ,0,6,1
+24,34,Tương tác người máy ,0,6,1
+24,35,Khai thác dữ liệu và ứng dụng ,0,6,2
+24,36,Lập trình phân tán với công nghệ .NET ,0,6,2
+24,37,Lập trình phân tán với công nghệ Java ,1,6,2
+24,38,Những môn chính học kỳ 7,1,7,0
+24,39,Tâm lí học đại cương,0,7,1
+24,40,Cơ sở văn hóa Việt Nam,1,7,1
+24,41,Xã hội học,0,7,1
+24,42,Tiếng Việt thực hành,0,7,1
+24,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,1
+24,44,Hội họa,0,7,1
+24,45,Những môn chính học kỳ 8,1,8,0
+24,46,Đồ họa máy tính ,0,8,1
+24,47,Đảm bảo chất lượng và Kiểm ,1,8,1
+24,48,Công nghệ IoT hiện đại ,0,8,1
+24,49,Xử lý ngôn ngữ tự nhiên ,0,8,2
+24,50,Công nghệ phần mềm ,0,8,2
+24,51,Ngôn ngữ lập trình ,0,8,2
+24,52,Phân tích và quản lý yêu cầu ,0,8,2
+24,53,Những môn chính học kỳ 9,1,9,0
+25,1,Những môn chính học kỳ 1,1,1,0
+25,2,Những môn chính học kỳ 2,1,2,0
+25,3,Logic học,0,2,1
+25,4,Phương pháp tính,0,2,1
+25,5,Vật lý đại cương,1,2,1
+25,6,Toán ứng dụng,0,2,1
+25,7,Hàm phức và phép biến đổi Laplace,0,2,1
+25,8,Những môn chính học kỳ 3,1,3,0
+25,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+25,10,Quản trị học,0,3,1
+25,11,Quản trị doanh nghiệp,0,3,1
+25,12,Kế toán cơ bản,0,3,1
+25,13,Môi trường và con người ,1,3,1
+25,14,Giao tiếp kinh doanh,0,3,1
+25,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+25,16,Những môn chính học kỳ 4,1,4,0
+25,17,Tính toán số & Matlab ,0,4,1
+25,18,Ngôn ngữ Python ,1,4,1
+25,19,Ngôn ngữ R ,0,4,1
+25,20,Lập trình hướng đối tượng ,0,4,2
+25,21,Lập trình phân tích dữ liệu 1 ,0,4,2
+25,22,Kỹ thuật điện tử ,0,4,2
+25,23,Những môn chính học kỳ 5,1,5,0
+25,24,Lập trình hướng sự kiện với công nghệ .NET ,0,5,1
+25,25,Lập trình hướng sự kiện với công nghệ Java ,1,5,1
+25,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+25,27,Automat & ngôn ngữ hình thức ,0,5,2
+25,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+25,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,0,5,2
+25,30,Những môn chính học kỳ 6,1,6,0
+25,31,Quản lý dự án CNTT ,0,6,1
+25,32,Nhập môn dữ liệu lớn ,0,6,1
+25,33,Tiếp thị điện tử ,0,6,1
+25,34,Tương tác người máy ,0,6,1
+25,35,Khai thác dữ liệu và ứng dụng ,0,6,2
+25,36,Lập trình phân tán với công nghệ .NET ,0,6,2
+25,37,Lập trình phân tán với công nghệ Java ,0,6,2
+25,38,Những môn chính học kỳ 7,1,7,0
+25,39,Tâm lí học đại cương,0,7,1
+25,40,Cơ sở văn hóa Việt Nam,0,7,1
+25,41,Xã hội học,0,7,1
+25,42,Tiếng Việt thực hành,0,7,1
+25,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,1
+25,44,Hội họa,0,7,1
+25,45,Những môn chính học kỳ 8,1,8,0
+25,46,Đồ họa máy tính ,0,8,1
+25,47,Đảm bảo chất lượng và Kiểm ,0,8,1
+25,48,Công nghệ IoT hiện đại ,0,8,1
+25,49,Xử lý ngôn ngữ tự nhiên ,0,8,2
+25,50,Công nghệ phần mềm ,0,8,2
+25,51,Ngôn ngữ lập trình ,0,8,2
+25,52,Phân tích và quản lý yêu cầu ,0,8,2
+25,53,Những môn chính học kỳ 9,1,9,0
+26,1,Những môn chính học kỳ 1,1,1,0
+26,2,Những môn chính học kỳ 2,1,2,0
+26,3,Logic học,0,2,1
+26,4,Phương pháp tính,0,2,1
+26,5,Vật lý đại cương,1,2,1
+26,6,Toán ứng dụng,0,2,1
+26,7,Hàm phức và phép biến đổi Laplace,0,2,1
+26,8,Những môn chính học kỳ 3,1,3,0
+26,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+26,10,Quản trị học,0,3,1
+26,11,Quản trị doanh nghiệp,0,3,1
+26,12,Kế toán cơ bản,0,3,1
+26,13,Môi trường và con người ,0,3,1
+26,14,Giao tiếp kinh doanh,1,3,1
+26,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+26,16,Những môn chính học kỳ 4,1,4,0
+26,17,Tính toán số & Matlab ,0,4,1
+26,18,Ngôn ngữ Python ,1,4,1
+26,19,Ngôn ngữ R ,0,4,1
+26,20,Lập trình hướng đối tượng ,1,4,2
+26,21,Lập trình phân tích dữ liệu 1 ,0,4,2
+26,22,Kỹ thuật điện tử ,0,4,2
+26,23,Những môn chính học kỳ 5,1,5,0
+26,24,Lập trình hướng sự kiện với công nghệ .NET ,0,5,1
+26,25,Lập trình hướng sự kiện với công nghệ Java ,1,5,1
+26,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+26,27,Automat & ngôn ngữ hình thức ,0,5,2
+26,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+26,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,0,5,2
+26,30,Những môn chính học kỳ 6,1,6,0
+26,31,Quản lý dự án CNTT ,1,6,1
+26,32,Nhập môn dữ liệu lớn ,0,6,1
+26,33,Tiếp thị điện tử ,0,6,1
+26,34,Tương tác người máy ,0,6,1
+26,35,Khai thác dữ liệu và ứng dụng ,0,6,2
+26,36,Lập trình phân tán với công nghệ .NET ,0,6,2
+26,37,Lập trình phân tán với công nghệ Java ,0,6,2
+26,38,Những môn chính học kỳ 7,1,7,0
+26,39,Tâm lí học đại cương,1,7,1
+26,40,Cơ sở văn hóa Việt Nam,0,7,1
+26,41,Xã hội học,0,7,1
+26,42,Tiếng Việt thực hành,0,7,1
+26,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,1
+26,44,Hội họa,0,7,1
+26,45,Những môn chính học kỳ 8,1,8,0
+26,46,Đồ họa máy tính ,0,8,1
+26,47,Đảm bảo chất lượng và Kiểm ,0,8,1
+26,48,Công nghệ IoT hiện đại ,0,8,1
+26,49,Xử lý ngôn ngữ tự nhiên ,0,8,2
+26,50,Công nghệ phần mềm ,0,8,2
+26,51,Ngôn ngữ lập trình ,0,8,2
+26,52,Phân tích và quản lý yêu cầu ,0,8,2
+26,53,Những môn chính học kỳ 9,1,9,0
+27,1,Những môn chính học kỳ 1,1,1,0
+27,2,Những môn chính học kỳ 2,1,2,0
+27,3,Logic học,0,2,1
+27,4,Phương pháp tính,1,2,1
+27,5,Vật lý đại cương,0,2,1
+27,6,Toán ứng dụng,0,2,1
+27,7,Hàm phức và phép biến đổi Laplace,0,2,1
+27,8,Những môn chính học kỳ 3,1,3,0
+27,9,Kỹ năng xây dựng kế hoạch ,1,3,1
+27,10,Quản trị học,0,3,1
+27,11,Quản trị doanh nghiệp,0,3,1
+27,12,Kế toán cơ bản,0,3,1
+27,13,Môi trường và con người ,0,3,1
+27,14,Giao tiếp kinh doanh,0,3,1
+27,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+27,16,Những môn chính học kỳ 4,1,4,0
+27,17,Tính toán số & Matlab ,0,4,1
+27,18,Ngôn ngữ Python ,1,4,1
+27,19,Ngôn ngữ R ,0,4,1
+27,20,Lập trình hướng đối tượng ,1,4,2
+27,21,Lập trình phân tích dữ liệu 1 ,0,4,2
+27,22,Kỹ thuật điện tử ,0,4,2
+27,23,Những môn chính học kỳ 5,1,5,0
+27,24,Lập trình hướng sự kiện với công nghệ .NET ,0,5,1
+27,25,Lập trình hướng sự kiện với công nghệ Java ,1,5,1
+27,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+27,27,Automat & ngôn ngữ hình thức ,0,5,2
+27,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+27,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,0,5,2
+27,30,Những môn chính học kỳ 6,1,6,0
+27,31,Quản lý dự án CNTT ,0,6,1
+27,32,Nhập môn dữ liệu lớn ,1,6,1
+27,33,Tiếp thị điện tử ,0,6,1
+27,34,Tương tác người máy ,0,6,1
+27,35,Khai thác dữ liệu và ứng dụng ,0,6,2
+27,36,Lập trình phân tán với công nghệ .NET ,0,6,2
+27,37,Lập trình phân tán với công nghệ Java ,1,6,2
+27,38,Những môn chính học kỳ 7,1,7,0
+27,39,Tâm lí học đại cương,0,7,1
+27,40,Cơ sở văn hóa Việt Nam,0,7,1
+27,41,Xã hội học,0,7,1
+27,42,Tiếng Việt thực hành,1,7,1
+27,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,1
+27,44,Hội họa,0,7,1
+27,45,Những môn chính học kỳ 8,1,8,0
+27,46,Đồ họa máy tính ,0,8,1
+27,47,Đảm bảo chất lượng và Kiểm ,0,8,1
+27,48,Công nghệ IoT hiện đại ,0,8,1
+27,49,Xử lý ngôn ngữ tự nhiên ,0,8,2
+27,50,Công nghệ phần mềm ,0,8,2
+27,51,Ngôn ngữ lập trình ,0,8,2
+27,52,Phân tích và quản lý yêu cầu ,1,8,2
+27,53,Những môn chính học kỳ 9,1,9,0
+28,1,Những môn chính học kỳ 1,1,1,0
+28,2,Những môn chính học kỳ 2,1,2,0
+28,3,Logic học,0,2,1
+28,4,Phương pháp tính,0,2,1
+28,5,Vật lý đại cương,1,2,1
+28,6,Toán ứng dụng,0,2,1
+28,7,Hàm phức và phép biến đổi Laplace,0,2,1
+28,8,Những môn chính học kỳ 3,1,3,0
+28,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+28,10,Quản trị học,0,3,1
+28,11,Quản trị doanh nghiệp,0,3,1
+28,12,Kế toán cơ bản,0,3,1
+28,13,Môi trường và con người ,0,3,1
+28,14,Giao tiếp kinh doanh,0,3,1
+28,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+28,16,Những môn chính học kỳ 4,1,4,0
+28,17,Tính toán số & Matlab ,0,4,1
+28,18,Ngôn ngữ Python ,0,4,1
+28,19,Ngôn ngữ R ,0,4,1
+28,20,Lập trình hướng đối tượng ,0,4,2
+28,21,Lập trình phân tích dữ liệu 1 ,0,4,2
+28,22,Kỹ thuật điện tử ,0,4,2
+28,23,Những môn chính học kỳ 5,1,5,0
+28,24,Lập trình hướng sự kiện với công nghệ .NET ,0,5,1
+28,25,Lập trình hướng sự kiện với công nghệ Java ,0,5,1
+28,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+28,27,Automat & ngôn ngữ hình thức ,0,5,2
+28,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+28,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,0,5,2
+28,30,Những môn chính học kỳ 6,1,6,0
+28,31,Quản lý dự án CNTT ,0,6,1
+28,32,Nhập môn dữ liệu lớn ,0,6,1
+28,33,Tiếp thị điện tử ,0,6,1
+28,34,Tương tác người máy ,0,6,1
+28,35,Khai thác dữ liệu và ứng dụng ,0,6,2
+28,36,Lập trình phân tán với công nghệ .NET ,0,6,2
+28,37,Lập trình phân tán với công nghệ Java ,0,6,2
+28,38,Những môn chính học kỳ 7,1,7,0
+28,39,Tâm lí học đại cương,0,7,1
+28,40,Cơ sở văn hóa Việt Nam,0,7,1
+28,41,Xã hội học,0,7,1
+28,42,Tiếng Việt thực hành,0,7,1
+28,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,1
+28,44,Hội họa,0,7,1
+28,45,Những môn chính học kỳ 8,1,8,0
+28,46,Đồ họa máy tính ,0,8,1
+28,47,Đảm bảo chất lượng và Kiểm ,0,8,1
+28,48,Công nghệ IoT hiện đại ,0,8,1
+28,49,Xử lý ngôn ngữ tự nhiên ,0,8,2
+28,50,Công nghệ phần mềm ,0,8,2
+28,51,Ngôn ngữ lập trình ,0,8,2
+28,52,Phân tích và quản lý yêu cầu ,0,8,2
+28,53,Những môn chính học kỳ 9,1,9,0
+29,1,Những môn chính học kỳ 1,1,1,0
+29,2,Những môn chính học kỳ 2,1,2,0
+29,3,Logic học,0,2,1
+29,4,Phương pháp tính,1,2,1
+29,5,Vật lý đại cương,0,2,1
+29,6,Toán ứng dụng,0,2,1
+29,7,Hàm phức và phép biến đổi Laplace,0,2,1
+29,8,Những môn chính học kỳ 3,1,3,0
+29,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+29,10,Quản trị học,0,3,1
+29,11,Quản trị doanh nghiệp,0,3,1
+29,12,Kế toán cơ bản,0,3,1
+29,13,Môi trường và con người ,0,3,1
+29,14,Giao tiếp kinh doanh,1,3,1
+29,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+29,16,Những môn chính học kỳ 4,1,4,0
+29,17,Tính toán số & Matlab ,0,4,1
+29,18,Ngôn ngữ Python ,0,4,1
+29,19,Ngôn ngữ R ,0,4,1
+29,20,Lập trình hướng đối tượng ,0,4,2
+29,21,Lập trình phân tích dữ liệu 1 ,0,4,2
+29,22,Kỹ thuật điện tử ,1,4,2
+29,23,Những môn chính học kỳ 5,1,5,0
+29,24,Lập trình hướng sự kiện với công nghệ .NET ,0,5,1
+29,25,Lập trình hướng sự kiện với công nghệ Java ,1,5,1
+29,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+29,27,Automat & ngôn ngữ hình thức ,0,5,2
+29,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+29,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,0,5,2
+29,30,Những môn chính học kỳ 6,1,6,0
+29,31,Quản lý dự án CNTT ,0,6,1
+29,32,Nhập môn dữ liệu lớn ,0,6,1
+29,33,Tiếp thị điện tử ,0,6,1
+29,34,Tương tác người máy ,1,6,1
+29,35,Khai thác dữ liệu và ứng dụng ,0,6,2
+29,36,Lập trình phân tán với công nghệ .NET ,0,6,2
+29,37,Lập trình phân tán với công nghệ Java ,1,6,2
+29,38,Những môn chính học kỳ 7,1,7,0
+29,39,Tâm lí học đại cương,1,7,1
+29,40,Cơ sở văn hóa Việt Nam,0,7,1
+29,41,Xã hội học,0,7,1
+29,42,Tiếng Việt thực hành,0,7,1
+29,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,1
+29,44,Hội họa,0,7,1
+29,45,Những môn chính học kỳ 8,1,8,0
+29,46,Đồ họa máy tính ,1,8,1
+29,47,Đảm bảo chất lượng và Kiểm ,0,8,1
+29,48,Công nghệ IoT hiện đại ,0,8,1
+29,49,Xử lý ngôn ngữ tự nhiên ,0,8,2
+29,50,Công nghệ phần mềm ,0,8,2
+29,51,Ngôn ngữ lập trình ,0,8,2
+29,52,Phân tích và quản lý yêu cầu ,0,8,2
+29,53,Những môn chính học kỳ 9,1,9,0
+30,1,Những môn chính học kỳ 1,1,1,0
+30,2,Những môn chính học kỳ 2,1,2,0
+30,3,Logic học,1,2,1
+30,4,Phương pháp tính,0,2,1
+30,5,Vật lý đại cương,0,2,1
+30,6,Toán ứng dụng,0,2,1
+30,7,Hàm phức và phép biến đổi Laplace,0,2,1
+30,8,Những môn chính học kỳ 3,1,3,0
+30,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+30,10,Quản trị học,0,3,1
+30,11,Quản trị doanh nghiệp,0,3,1
+30,12,Kế toán cơ bản,0,3,1
+30,13,Môi trường và con người ,0,3,1
+30,14,Giao tiếp kinh doanh,0,3,1
+30,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,1,3,1
+30,16,Những môn chính học kỳ 4,1,4,0
+30,17,Tính toán số & Matlab ,0,4,1
+30,18,Ngôn ngữ Python ,0,4,1
+30,19,Ngôn ngữ R ,0,4,1
+30,20,Lập trình hướng đối tượng ,1,4,2
+30,21,Lập trình phân tích dữ liệu 1 ,0,4,2
+30,22,Kỹ thuật điện tử ,0,4,2
+30,23,Những môn chính học kỳ 5,1,5,0
+30,24,Lập trình hướng sự kiện với công nghệ .NET ,0,5,1
+30,25,Lập trình hướng sự kiện với công nghệ Java ,1,5,1
+30,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+30,27,Automat & ngôn ngữ hình thức ,0,5,2
+30,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+30,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,0,5,2
+30,30,Những môn chính học kỳ 6,1,6,0
+30,31,Quản lý dự án CNTT ,0,6,1
+30,32,Nhập môn dữ liệu lớn ,0,6,1
+30,33,Tiếp thị điện tử ,0,6,1
+30,34,Tương tác người máy ,0,6,1
+30,35,Khai thác dữ liệu và ứng dụng ,0,6,2
+30,36,Lập trình phân tán với công nghệ .NET ,0,6,2
+30,37,Lập trình phân tán với công nghệ Java ,1,6,2
+30,38,Những môn chính học kỳ 7,1,7,0
+30,39,Tâm lí học đại cương,0,7,1
+30,40,Cơ sở văn hóa Việt Nam,0,7,1
+30,41,Xã hội học,0,7,1
+30,42,Tiếng Việt thực hành,0,7,1
+30,43,Âm nhạc - Nhạc lý và Guitar căn bản,1,7,1
+30,44,Hội họa,0,7,1
+30,45,Những môn chính học kỳ 8,1,8,0
+30,46,Đồ họa máy tính ,0,8,1
+30,47,Đảm bảo chất lượng và Kiểm ,0,8,1
+30,48,Công nghệ IoT hiện đại ,0,8,1
+30,49,Xử lý ngôn ngữ tự nhiên ,0,8,2
+30,50,Công nghệ phần mềm ,1,8,2
+30,51,Ngôn ngữ lập trình ,0,8,2
+30,52,Phân tích và quản lý yêu cầu ,0,8,2
+30,53,Những môn chính học kỳ 9,1,9,0
+31,1,Những môn chính học kỳ 1,1,1,0
+31,2,Những môn chính học kỳ 2,1,2,0
+31,3,Logic học,1,2,1
+31,4,Phương pháp tính,0,2,1
+31,5,Vật lý đại cương,0,2,1
+31,6,Toán ứng dụng,0,2,1
+31,7,Hàm phức và phép biến đổi Laplace,0,2,1
+31,8,Những môn chính học kỳ 3,1,3,0
+31,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+31,10,Quản trị học,0,3,1
+31,11,Quản trị doanh nghiệp,0,3,1
+31,12,Kế toán cơ bản,0,3,1
+31,13,Môi trường và con người ,0,3,1
+31,14,Giao tiếp kinh doanh,0,3,1
+31,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+31,16,Những môn chính học kỳ 4,1,4,0
+31,17,Tính toán số & Matlab ,0,4,1
+31,18,Ngôn ngữ Python ,0,4,1
+31,19,Ngôn ngữ R ,0,4,1
+31,20,Lập trình hướng đối tượng ,0,4,2
+31,21,Lập trình phân tích dữ liệu 1 ,0,4,2
+31,22,Kỹ thuật điện tử ,0,4,2
+31,23,Những môn chính học kỳ 5,1,5,0
+31,24,Lập trình hướng sự kiện với công nghệ .NET ,0,5,1
+31,25,Lập trình hướng sự kiện với công nghệ Java ,0,5,1
+31,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+31,27,Automat & ngôn ngữ hình thức ,0,5,2
+31,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+31,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,0,5,2
+31,30,Những môn chính học kỳ 6,1,6,0
+31,31,Quản lý dự án CNTT ,0,6,1
+31,32,Nhập môn dữ liệu lớn ,0,6,1
+31,33,Tiếp thị điện tử ,0,6,1
+31,34,Tương tác người máy ,0,6,1
+31,35,Khai thác dữ liệu và ứng dụng ,0,6,2
+31,36,Lập trình phân tán với công nghệ .NET ,0,6,2
+31,37,Lập trình phân tán với công nghệ Java ,0,6,2
+31,38,Những môn chính học kỳ 7,1,7,0
+31,39,Tâm lí học đại cương,0,7,1
+31,40,Cơ sở văn hóa Việt Nam,0,7,1
+31,41,Xã hội học,0,7,1
+31,42,Tiếng Việt thực hành,0,7,1
+31,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,1
+31,44,Hội họa,0,7,1
+31,45,Những môn chính học kỳ 8,1,8,0
+31,46,Đồ họa máy tính ,0,8,1
+31,47,Đảm bảo chất lượng và Kiểm ,0,8,1
+31,48,Công nghệ IoT hiện đại ,0,8,1
+31,49,Xử lý ngôn ngữ tự nhiên ,0,8,2
+31,50,Công nghệ phần mềm ,0,8,2
+31,51,Ngôn ngữ lập trình ,0,8,2
+31,52,Phân tích và quản lý yêu cầu ,0,8,2
+31,53,Những môn chính học kỳ 9,1,9,0
+32,1,Những môn chính học kỳ 1,1,1,0
+32,2,Những môn chính học kỳ 2,1,2,0
+32,3,Logic học,0,2,1
+32,4,Phương pháp tính,1,2,1
+32,5,Vật lý đại cương,0,2,1
+32,6,Toán ứng dụng,0,2,1
+32,7,Hàm phức và phép biến đổi Laplace,0,2,1
+32,8,Những môn chính học kỳ 3,1,3,0
+32,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+32,10,Quản trị học,0,3,1
+32,11,Quản trị doanh nghiệp,0,3,1
+32,12,Kế toán cơ bản,0,3,1
+32,13,Môi trường và con người ,0,3,1
+32,14,Giao tiếp kinh doanh,0,3,1
+32,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,1,3,1
+32,16,Những môn chính học kỳ 4,1,4,0
+32,17,Tính toán số & Matlab ,0,4,1
+32,18,Ngôn ngữ Python ,1,4,1
+32,19,Ngôn ngữ R ,0,4,1
+32,20,Lập trình hướng đối tượng ,1,4,2
+32,21,Lập trình phân tích dữ liệu 1 ,0,4,2
+32,22,Kỹ thuật điện tử ,0,4,2
+32,23,Những môn chính học kỳ 5,1,5,0
+32,24,Lập trình hướng sự kiện với công nghệ .NET ,0,5,1
+32,25,Lập trình hướng sự kiện với công nghệ Java ,1,5,1
+32,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+32,27,Automat & ngôn ngữ hình thức ,0,5,2
+32,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+32,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,1,5,2
+32,30,Những môn chính học kỳ 6,1,6,0
+32,31,Quản lý dự án CNTT ,0,6,1
+32,32,Nhập môn dữ liệu lớn ,1,6,1
+32,33,Tiếp thị điện tử ,0,6,1
+32,34,Tương tác người máy ,0,6,1
+32,35,Khai thác dữ liệu và ứng dụng ,0,6,2
+32,36,Lập trình phân tán với công nghệ .NET ,0,6,2
+32,37,Lập trình phân tán với công nghệ Java ,1,6,2
+32,38,Những môn chính học kỳ 7,1,7,0
+32,39,Tâm lí học đại cương,0,7,1
+32,40,Cơ sở văn hóa Việt Nam,0,7,1
+32,41,Xã hội học,0,7,1
+32,42,Tiếng Việt thực hành,1,7,1
+32,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,1
+32,44,Hội họa,0,7,1
+32,45,Những môn chính học kỳ 8,1,8,0
+32,46,Đồ họa máy tính ,1,8,1
+32,47,Đảm bảo chất lượng và Kiểm ,0,8,1
+32,48,Công nghệ IoT hiện đại ,0,8,1
+32,49,Xử lý ngôn ngữ tự nhiên ,0,8,2
+32,50,Công nghệ phần mềm ,0,8,2
+32,51,Ngôn ngữ lập trình ,0,8,2
+32,52,Phân tích và quản lý yêu cầu ,1,8,2
+32,53,Những môn chính học kỳ 9,1,9,0
+33,1,Những môn chính học kỳ 1,1,1,0
+33,2,Những môn chính học kỳ 2,1,2,0
+33,3,Logic học,0,2,1
+33,4,Phương pháp tính,0,2,1
+33,5,Vật lý đại cương,1,2,1
+33,6,Toán ứng dụng,0,2,1
+33,7,Hàm phức và phép biến đổi Laplace,0,2,1
+33,8,Những môn chính học kỳ 3,1,3,0
+33,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+33,10,Quản trị học,0,3,1
+33,11,Quản trị doanh nghiệp,0,3,1
+33,12,Kế toán cơ bản,0,3,1
+33,13,Môi trường và con người ,0,3,1
+33,14,Giao tiếp kinh doanh,0,3,1
+33,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,1,3,1
+33,16,Những môn chính học kỳ 4,1,4,0
+33,17,Tính toán số & Matlab ,0,4,1
+33,18,Ngôn ngữ Python ,1,4,1
+33,19,Ngôn ngữ R ,0,4,1
+33,20,Lập trình hướng đối tượng ,0,4,2
+33,21,Lập trình phân tích dữ liệu 1 ,0,4,2
+33,22,Kỹ thuật điện tử ,0,4,2
+33,23,Những môn chính học kỳ 5,1,5,0
+33,24,Lập trình hướng sự kiện với công nghệ .NET ,0,5,1
+33,25,Lập trình hướng sự kiện với công nghệ Java ,0,5,1
+33,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+33,27,Automat & ngôn ngữ hình thức ,0,5,2
+33,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+33,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,0,5,2
+33,30,Những môn chính học kỳ 6,1,6,0
+33,31,Quản lý dự án CNTT ,0,6,1
+33,32,Nhập môn dữ liệu lớn ,0,6,1
+33,33,Tiếp thị điện tử ,0,6,1
+33,34,Tương tác người máy ,0,6,1
+33,35,Khai thác dữ liệu và ứng dụng ,0,6,2
+33,36,Lập trình phân tán với công nghệ .NET ,0,6,2
+33,37,Lập trình phân tán với công nghệ Java ,0,6,2
+33,38,Những môn chính học kỳ 7,1,7,0
+33,39,Tâm lí học đại cương,0,7,1
+33,40,Cơ sở văn hóa Việt Nam,0,7,1
+33,41,Xã hội học,0,7,1
+33,42,Tiếng Việt thực hành,0,7,1
+33,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,1
+33,44,Hội họa,0,7,1
+33,45,Những môn chính học kỳ 8,1,8,0
+33,46,Đồ họa máy tính ,0,8,1
+33,47,Đảm bảo chất lượng và Kiểm ,0,8,1
+33,48,Công nghệ IoT hiện đại ,0,8,1
+33,49,Xử lý ngôn ngữ tự nhiên ,0,8,2
+33,50,Công nghệ phần mềm ,0,8,2
+33,51,Ngôn ngữ lập trình ,0,8,2
+33,52,Phân tích và quản lý yêu cầu ,0,8,2
+33,53,Những môn chính học kỳ 9,1,9,0
+34,1,Những môn chính học kỳ 1,1,1,0
+34,2,Những môn chính học kỳ 2,1,2,0
+34,3,Logic học,1,2,1
+34,4,Phương pháp tính,0,2,1
+34,5,Vật lý đại cương,0,2,1
+34,6,Toán ứng dụng,0,2,1
+34,7,Hàm phức và phép biến đổi Laplace,0,2,1
+34,8,Những môn chính học kỳ 3,1,3,0
+34,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+34,10,Quản trị học,0,3,1
+34,11,Quản trị doanh nghiệp,0,3,1
+34,12,Kế toán cơ bản,0,3,1
+34,13,Môi trường và con người ,1,3,1
+34,14,Giao tiếp kinh doanh,0,3,1
+34,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+34,16,Những môn chính học kỳ 4,1,4,0
+34,17,Tính toán số & Matlab ,0,4,1
+34,18,Ngôn ngữ Python ,0,4,1
+34,19,Ngôn ngữ R ,0,4,1
+34,20,Lập trình hướng đối tượng ,0,4,2
+34,21,Lập trình phân tích dữ liệu 1 ,1,4,2
+34,22,Kỹ thuật điện tử ,0,4,2
+34,23,Những môn chính học kỳ 5,1,5,0
+34,24,Lập trình hướng sự kiện với công nghệ .NET ,0,5,1
+34,25,Lập trình hướng sự kiện với công nghệ Java ,0,5,1
+34,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+34,27,Automat & ngôn ngữ hình thức ,0,5,2
+34,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+34,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,0,5,2
+34,30,Những môn chính học kỳ 6,1,6,0
+34,31,Quản lý dự án CNTT ,0,6,1
+34,32,Nhập môn dữ liệu lớn ,0,6,1
+34,33,Tiếp thị điện tử ,0,6,1
+34,34,Tương tác người máy ,0,6,1
+34,35,Khai thác dữ liệu và ứng dụng ,0,6,2
+34,36,Lập trình phân tán với công nghệ .NET ,0,6,2
+34,37,Lập trình phân tán với công nghệ Java ,0,6,2
+34,38,Những môn chính học kỳ 7,1,7,0
+34,39,Tâm lí học đại cương,0,7,1
+34,40,Cơ sở văn hóa Việt Nam,0,7,1
+34,41,Xã hội học,0,7,1
+34,42,Tiếng Việt thực hành,0,7,1
+34,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,1
+34,44,Hội họa,0,7,1
+34,45,Những môn chính học kỳ 8,1,8,0
+34,46,Đồ họa máy tính ,0,8,1
+34,47,Đảm bảo chất lượng và Kiểm ,0,8,1
+34,48,Công nghệ IoT hiện đại ,0,8,1
+34,49,Xử lý ngôn ngữ tự nhiên ,0,8,2
+34,50,Công nghệ phần mềm ,0,8,2
+34,51,Ngôn ngữ lập trình ,0,8,2
+34,52,Phân tích và quản lý yêu cầu ,0,8,2
+34,53,Những môn chính học kỳ 9,1,9,0
+35,1,Những môn chính học kỳ 1,1,1,0
+35,2,Những môn chính học kỳ 2,1,2,0
+35,3,Logic học,0,2,1
+35,4,Phương pháp tính,1,2,1
+35,5,Vật lý đại cương,0,2,1
+35,6,Toán ứng dụng,0,2,1
+35,7,Hàm phức và phép biến đổi Laplace,0,2,1
+35,8,Những môn chính học kỳ 3,1,3,0
+35,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+35,10,Quản trị học,0,3,1
+35,11,Quản trị doanh nghiệp,0,3,1
+35,12,Kế toán cơ bản,0,3,1
+35,13,Môi trường và con người ,0,3,1
+35,14,Giao tiếp kinh doanh,0,3,1
+35,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,1,3,1
+35,16,Những môn chính học kỳ 4,1,4,0
+35,17,Tính toán số & Matlab ,0,4,1
+35,18,Ngôn ngữ Python ,0,4,1
+35,19,Ngôn ngữ R ,1,4,1
+35,20,Lập trình hướng đối tượng ,0,4,2
+35,21,Lập trình phân tích dữ liệu 1 ,1,4,2
+35,22,Kỹ thuật điện tử ,0,4,2
+35,23,Những môn chính học kỳ 5,1,5,0
+35,24,Lập trình hướng sự kiện với công nghệ .NET ,1,5,1
+35,25,Lập trình hướng sự kiện với công nghệ Java ,0,5,1
+35,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+35,27,Automat & ngôn ngữ hình thức ,0,5,2
+35,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+35,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,1,5,2
+35,30,Những môn chính học kỳ 6,1,6,0
+35,31,Quản lý dự án CNTT ,0,6,1
+35,32,Nhập môn dữ liệu lớn ,1,6,1
+35,33,Tiếp thị điện tử ,0,6,1
+35,34,Tương tác người máy ,0,6,1
+35,35,Khai thác dữ liệu và ứng dụng ,0,6,2
+35,36,Lập trình phân tán với công nghệ .NET ,1,6,2
+35,37,Lập trình phân tán với công nghệ Java ,0,6,2
+35,38,Những môn chính học kỳ 7,1,7,0
+35,39,Tâm lí học đại cương,0,7,1
+35,40,Cơ sở văn hóa Việt Nam,0,7,1
+35,41,Xã hội học,0,7,1
+35,42,Tiếng Việt thực hành,0,7,1
+35,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,1
+35,44,Hội họa,0,7,1
+35,45,Những môn chính học kỳ 8,1,8,0
+35,46,Đồ họa máy tính ,0,8,1
+35,47,Đảm bảo chất lượng và Kiểm ,0,8,1
+35,48,Công nghệ IoT hiện đại ,0,8,1
+35,49,Xử lý ngôn ngữ tự nhiên ,0,8,2
+35,50,Công nghệ phần mềm ,1,8,2
+35,51,Ngôn ngữ lập trình ,0,8,2
+35,52,Phân tích và quản lý yêu cầu ,0,8,2
+35,53,Những môn chính học kỳ 9,1,9,0
+36,1,Những môn chính học kỳ 1,1,1,0
+36,2,Những môn chính học kỳ 2,1,2,0
+36,3,Logic học,1,2,1
+36,4,Phương pháp tính,0,2,1
+36,5,Vật lý đại cương,0,2,1
+36,6,Toán ứng dụng,0,2,1
+36,7,Hàm phức và phép biến đổi Laplace,0,2,1
+36,8,Những môn chính học kỳ 3,1,3,0
+36,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+36,10,Quản trị học,0,3,1
+36,11,Quản trị doanh nghiệp,0,3,1
+36,12,Kế toán cơ bản,0,3,1
+36,13,Môi trường và con người ,0,3,1
+36,14,Giao tiếp kinh doanh,0,3,1
+36,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,1,3,1
+36,16,Những môn chính học kỳ 4,1,4,0
+36,17,Tính toán số & Matlab ,0,4,1
+36,18,Ngôn ngữ Python ,1,4,1
+36,19,Ngôn ngữ R ,0,4,1
+36,20,Lập trình hướng đối tượng ,1,4,2
+36,21,Lập trình phân tích dữ liệu 1 ,0,4,2
+36,22,Kỹ thuật điện tử ,0,4,2
+36,23,Những môn chính học kỳ 5,1,5,0
+36,24,Lập trình hướng sự kiện với công nghệ .NET ,0,5,1
+36,25,Lập trình hướng sự kiện với công nghệ Java ,0,5,1
+36,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+36,27,Automat & ngôn ngữ hình thức ,0,5,2
+36,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+36,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,0,5,2
+36,30,Những môn chính học kỳ 6,1,6,0
+36,31,Quản lý dự án CNTT ,0,6,1
+36,32,Nhập môn dữ liệu lớn ,0,6,1
+36,33,Tiếp thị điện tử ,0,6,1
+36,34,Tương tác người máy ,0,6,1
+36,35,Khai thác dữ liệu và ứng dụng ,0,6,2
+36,36,Lập trình phân tán với công nghệ .NET ,0,6,2
+36,37,Lập trình phân tán với công nghệ Java ,0,6,2
+36,38,Những môn chính học kỳ 7,1,7,0
+36,39,Tâm lí học đại cương,0,7,1
+36,40,Cơ sở văn hóa Việt Nam,0,7,1
+36,41,Xã hội học,0,7,1
+36,42,Tiếng Việt thực hành,0,7,1
+36,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,1
+36,44,Hội họa,0,7,1
+36,45,Những môn chính học kỳ 8,1,8,0
+36,46,Đồ họa máy tính ,0,8,1
+36,47,Đảm bảo chất lượng và Kiểm ,0,8,1
+36,48,Công nghệ IoT hiện đại ,0,8,1
+36,49,Xử lý ngôn ngữ tự nhiên ,0,8,2
+36,50,Công nghệ phần mềm ,0,8,2
+36,51,Ngôn ngữ lập trình ,0,8,2
+36,52,Phân tích và quản lý yêu cầu ,0,8,2
+36,53,Những môn chính học kỳ 9,1,9,0
+37,1,Những môn chính học kỳ 1,1,1,0
+37,2,Những môn chính học kỳ 2,1,2,0
+37,3,Logic học,0,2,1
+37,4,Phương pháp tính,0,2,1
+37,5,Vật lý đại cương,0,2,1
+37,6,Toán ứng dụng,0,2,1
+37,7,Hàm phức và phép biến đổi Laplace,1,2,1
+37,8,Những môn chính học kỳ 3,1,3,0
+37,9,Kỹ năng xây dựng kế hoạch ,1,3,1
+37,10,Quản trị học,0,3,1
+37,11,Quản trị doanh nghiệp,0,3,1
+37,12,Kế toán cơ bản,0,3,1
+37,13,Môi trường và con người ,0,3,1
+37,14,Giao tiếp kinh doanh,0,3,1
+37,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+37,16,Những môn chính học kỳ 4,1,4,0
+37,17,Tính toán số & Matlab ,0,4,1
+37,18,Ngôn ngữ Python ,1,4,1
+37,19,Ngôn ngữ R ,0,4,1
+37,20,Lập trình hướng đối tượng ,0,4,2
+37,21,Lập trình phân tích dữ liệu 1 ,0,4,2
+37,22,Kỹ thuật điện tử ,0,4,2
+37,23,Những môn chính học kỳ 5,1,5,0
+37,24,Lập trình hướng sự kiện với công nghệ .NET ,0,5,1
+37,25,Lập trình hướng sự kiện với công nghệ Java ,1,5,1
+37,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+37,27,Automat & ngôn ngữ hình thức ,0,5,2
+37,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+37,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,0,5,2
+37,30,Những môn chính học kỳ 6,1,6,0
+37,31,Quản lý dự án CNTT ,0,6,1
+37,32,Nhập môn dữ liệu lớn ,1,6,1
+37,33,Tiếp thị điện tử ,0,6,1
+37,34,Tương tác người máy ,0,6,1
+37,35,Khai thác dữ liệu và ứng dụng ,0,6,2
+37,36,Lập trình phân tán với công nghệ .NET ,0,6,2
+37,37,Lập trình phân tán với công nghệ Java ,0,6,2
+37,38,Những môn chính học kỳ 7,1,7,0
+37,39,Tâm lí học đại cương,0,7,1
+37,40,Cơ sở văn hóa Việt Nam,0,7,1
+37,41,Xã hội học,0,7,1
+37,42,Tiếng Việt thực hành,1,7,1
+37,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,1
+37,44,Hội họa,0,7,1
+37,45,Những môn chính học kỳ 8,1,8,0
+37,46,Đồ họa máy tính ,0,8,1
+37,47,Đảm bảo chất lượng và Kiểm ,0,8,1
+37,48,Công nghệ IoT hiện đại ,0,8,1
+37,49,Xử lý ngôn ngữ tự nhiên ,1,8,2
+37,50,Công nghệ phần mềm ,0,8,2
+37,51,Ngôn ngữ lập trình ,0,8,2
+37,52,Phân tích và quản lý yêu cầu ,0,8,2
+37,53,Những môn chính học kỳ 9,1,9,0
+38,1,Những môn chính học kỳ 1,1,1,0
+38,2,Những môn chính học kỳ 2,1,2,0
+38,3,Logic học,0,2,1
+38,4,Phương pháp tính,1,2,1
+38,5,Vật lý đại cương,0,2,1
+38,6,Toán ứng dụng,0,2,1
+38,7,Hàm phức và phép biến đổi Laplace,0,2,1
+38,8,Những môn chính học kỳ 3,1,3,0
+38,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+38,10,Quản trị học,0,3,1
+38,11,Quản trị doanh nghiệp,0,3,1
+38,12,Kế toán cơ bản,1,3,1
+38,13,Môi trường và con người ,0,3,1
+38,14,Giao tiếp kinh doanh,0,3,1
+38,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+38,16,Những môn chính học kỳ 4,1,4,0
+38,17,Tính toán số & Matlab ,0,4,1
+38,18,Ngôn ngữ Python ,0,4,1
+38,19,Ngôn ngữ R ,0,4,1
+38,20,Lập trình hướng đối tượng ,1,4,2
+38,21,Lập trình phân tích dữ liệu 1 ,0,4,2
+38,22,Kỹ thuật điện tử ,0,4,2
+38,23,Những môn chính học kỳ 5,1,5,0
+38,24,Lập trình hướng sự kiện với công nghệ .NET ,0,5,1
+38,25,Lập trình hướng sự kiện với công nghệ Java ,1,5,1
+38,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+38,27,Automat & ngôn ngữ hình thức ,0,5,2
+38,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+38,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,0,5,2
+38,30,Những môn chính học kỳ 6,1,6,0
+38,31,Quản lý dự án CNTT ,0,6,1
+38,32,Nhập môn dữ liệu lớn ,0,6,1
+38,33,Tiếp thị điện tử ,0,6,1
+38,34,Tương tác người máy ,0,6,1
+38,35,Khai thác dữ liệu và ứng dụng ,0,6,2
+38,36,Lập trình phân tán với công nghệ .NET ,0,6,2
+38,37,Lập trình phân tán với công nghệ Java ,1,6,2
+38,38,Những môn chính học kỳ 7,1,7,0
+38,39,Tâm lí học đại cương,1,7,1
+38,40,Cơ sở văn hóa Việt Nam,0,7,1
+38,41,Xã hội học,0,7,1
+38,42,Tiếng Việt thực hành,0,7,1
+38,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,1
+38,44,Hội họa,0,7,1
+38,45,Những môn chính học kỳ 8,1,8,0
+38,46,Đồ họa máy tính ,0,8,1
+38,47,Đảm bảo chất lượng và Kiểm ,0,8,1
+38,48,Công nghệ IoT hiện đại ,0,8,1
+38,49,Xử lý ngôn ngữ tự nhiên ,0,8,2
+38,50,Công nghệ phần mềm ,1,8,2
+38,51,Ngôn ngữ lập trình ,0,8,2
+38,52,Phân tích và quản lý yêu cầu ,0,8,2
+38,53,Những môn chính học kỳ 9,1,9,0
+39,1,Những môn chính học kỳ 1,1,1,0
+39,2,Những môn chính học kỳ 2,1,2,0
+39,3,Logic học,1,2,1
+39,4,Phương pháp tính,0,2,1
+39,5,Vật lý đại cương,0,2,1
+39,6,Toán ứng dụng,0,2,1
+39,7,Hàm phức và phép biến đổi Laplace,0,2,1
+39,8,Những môn chính học kỳ 3,1,3,0
+39,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+39,10,Quản trị học,0,3,1
+39,11,Quản trị doanh nghiệp,0,3,1
+39,12,Kế toán cơ bản,0,3,1
+39,13,Môi trường và con người ,0,3,1
+39,14,Giao tiếp kinh doanh,0,3,1
+39,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,1,3,1
+39,16,Những môn chính học kỳ 4,1,4,0
+39,17,Tính toán số & Matlab ,0,4,1
+39,18,Ngôn ngữ Python ,0,4,1
+39,19,Ngôn ngữ R ,0,4,1
+39,20,Lập trình hướng đối tượng ,1,4,2
+39,21,Lập trình phân tích dữ liệu 1 ,0,4,2
+39,22,Kỹ thuật điện tử ,0,4,2
+39,23,Những môn chính học kỳ 5,1,5,0
+39,24,Lập trình hướng sự kiện với công nghệ .NET ,1,5,1
+39,25,Lập trình hướng sự kiện với công nghệ Java ,0,5,1
+39,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+39,27,Automat & ngôn ngữ hình thức ,0,5,2
+39,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+39,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,0,5,2
+39,30,Những môn chính học kỳ 6,1,6,0
+39,31,Quản lý dự án CNTT ,0,6,1
+39,32,Nhập môn dữ liệu lớn ,1,6,1
+39,33,Tiếp thị điện tử ,0,6,1
+39,34,Tương tác người máy ,0,6,1
+39,35,Khai thác dữ liệu và ứng dụng ,0,6,2
+39,36,Lập trình phân tán với công nghệ .NET ,0,6,2
+39,37,Lập trình phân tán với công nghệ Java ,0,6,2
+39,38,Những môn chính học kỳ 7,1,7,0
+39,39,Tâm lí học đại cương,0,7,1
+39,40,Cơ sở văn hóa Việt Nam,0,7,1
+39,41,Xã hội học,0,7,1
+39,42,Tiếng Việt thực hành,0,7,1
+39,43,Âm nhạc - Nhạc lý và Guitar căn bản,1,7,1
+39,44,Hội họa,0,7,1
+39,45,Những môn chính học kỳ 8,1,8,0
+39,46,Đồ họa máy tính ,1,8,1
+39,47,Đảm bảo chất lượng và Kiểm ,0,8,1
+39,48,Công nghệ IoT hiện đại ,0,8,1
+39,49,Xử lý ngôn ngữ tự nhiên ,0,8,2
+39,50,Công nghệ phần mềm ,0,8,2
+39,51,Ngôn ngữ lập trình ,0,8,2
+39,52,Phân tích và quản lý yêu cầu ,0,8,2
+39,53,Những môn chính học kỳ 9,1,9,0
+40,1,Những môn chính học kỳ 1,1,1,0
+40,2,Những môn chính học kỳ 2,1,2,0
+40,3,Logic học,0,2,1
+40,4,Phương pháp tính,1,2,1
+40,5,Vật lý đại cương,0,2,1
+40,6,Toán ứng dụng,0,2,1
+40,7,Hàm phức và phép biến đổi Laplace,0,2,1
+40,8,Những môn chính học kỳ 3,1,3,0
+40,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+40,10,Quản trị học,0,3,1
+40,11,Quản trị doanh nghiệp,0,3,1
+40,12,Kế toán cơ bản,0,3,1
+40,13,Môi trường và con người ,0,3,1
+40,14,Giao tiếp kinh doanh,0,3,1
+40,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+40,16,Những môn chính học kỳ 4,1,4,0
+40,17,Tính toán số & Matlab ,0,4,1
+40,18,Ngôn ngữ Python ,0,4,1
+40,19,Ngôn ngữ R ,0,4,1
+40,20,Lập trình hướng đối tượng ,0,4,2
+40,21,Lập trình phân tích dữ liệu 1 ,0,4,2
+40,22,Kỹ thuật điện tử ,0,4,2
+40,23,Những môn chính học kỳ 5,1,5,0
+40,24,Lập trình hướng sự kiện với công nghệ .NET ,0,5,1
+40,25,Lập trình hướng sự kiện với công nghệ Java ,0,5,1
+40,26,Lập trình hướng GUI với Qt FrameWork ,0,5,1
+40,27,Automat & ngôn ngữ hình thức ,0,5,2
+40,28,Lập trình phân tích dữ liệu 2 ,0,5,2
+40,29,Hệ quản trị cơ sở dữ liệu NoSQL MongoDB,0,5,2
+40,30,Những môn chính học kỳ 6,1,6,0
+40,31,Quản lý dự án CNTT ,0,6,1
+40,32,Nhập môn dữ liệu lớn ,0,6,1
+40,33,Tiếp thị điện tử ,0,6,1
+40,34,Tương tác người máy ,0,6,1
+40,35,Khai thác dữ liệu và ứng dụng ,0,6,2
+40,36,Lập trình phân tán với công nghệ .NET ,0,6,2
+40,37,Lập trình phân tán với công nghệ Java ,0,6,2
+40,38,Những môn chính học kỳ 7,1,7,0
+40,39,Tâm lí học đại cương,0,7,1
+40,40,Cơ sở văn hóa Việt Nam,0,7,1
+40,41,Xã hội học,0,7,1
+40,42,Tiếng Việt thực hành,0,7,1
+40,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,1
+40,44,Hội họa,0,7,1
+40,45,Những môn chính học kỳ 8,1,8,0
+40,46,Đồ họa máy tính ,0,8,1
+40,47,Đảm bảo chất lượng và Kiểm ,0,8,1
+40,48,Công nghệ IoT hiện đại ,0,8,1
+40,49,Xử lý ngôn ngữ tự nhiên ,0,8,2
+40,50,Công nghệ phần mềm ,0,8,2
+40,51,Ngôn ngữ lập trình ,0,8,2
+40,52,Phân tích và quản lý yêu cầu ,0,8,2
+40,53,Những môn chính học kỳ 9,1,9,0

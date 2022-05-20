@@ -1,0 +1,51 @@
+﻿CourseID,Name,Url,Code
+1,Những môn chính học kỳ 1,google.com,1111
+2,Những môn chính học kỳ 2,google.com,1111
+3,Logic học,coursera.org,2113438
+4,Phương pháp tính,coursera.org,2113435
+5,Vật lý đại cương,https://www.amazon.com/General-Physics-2nd-Morton-Sternheim/dp/0471522783,2113437
+6,Toán ứng dụng,coursera.org,2113434
+7,Hàm phức và phép biến đổi Laplace,coursera.org,2113436
+8,Những môn chính học kỳ 3,google.com,1111
+9,Kỹ năng xây dựng kế hoạch,https://www.amazon.com/Powerful-Planning-Skills-Peter-Capezio/dp/1564144410,2132002
+10,Quản trị học,coursera.org,2107483
+11,Quản trị doanh nghiệp,coursera.org,2107510
+12,Kế toán cơ bản,coursera.org,2127481
+13,Môi trường và con người,coursera.org,2123800
+14,Giao tiếp kinh doanh,coursera.org,2107492
+15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,coursera.org,2101727
+16,Những môn chính học kỳ 4,google.com,1111
+17,Hệ quản trị cơ sở dữ liệu,https://ocw.mit.edu/courses/6-830-database-systems-fall-2010,2101425
+18,Tương tác người máy,coursera.org,2101428
+19,Thương mại điện tử,coursera.org,2101652
+20,Lập trình hướng sự kiện với công nghệ .NET,coursera.org,2101555
+21,Lập trình hướng sự kiện với công nghệ Java,https://www.amazon.com/Event-Based-Programming-Taking-Events-Limit/dp/1590596439,2101556
+22,Lập trình GUI với Qt Framework,coursera.org,2101667
+23,Những môn chính học kỳ 5,google.com,1111
+24,Tâm lí học đại cương,https://ocw.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011,2110585
+25,Cơ sở văn hóa Việt Nam,coursera.org,2111491
+26,Xã hội học,coursera.org,2113439
+27,Tiếng Việt thực hành,coursera.org,2111492
+28,Âm nhạc - Nhạc lý và Guitar căn bản,coursera.org,2112011
+29,Hội họa,coursera.org,2106529
+30,Những môn chính học kỳ 6,google.com,1111
+31,Lập trình phân tán với công nghệ .NET,coursera.org,2101557
+32,Lập trình phân tán với công nghệ Java,https://www.amazon.com/Distributed-Programming-Java-Qusay-Mahmoud/dp/1884777651,2101558
+33,Lập trình mạng với Qt Framework,coursera.org,2101668
+34,Khai thác dữ liệu và ứng dụng,coursera.org,2101627
+35,Kỹ thuật điện tử,coursera.org,2102437
+36,Lập trình phân tích dữ liệu 1,https://www.amazon.com/Python-Data-Analysis/s?k=Python+for+Data+Analysis,2101584
+37,Những môn chính học kỳ 7,google.com,1111
+38,Lập trình WWW (.NET),coursera.org,2101662
+39,Lập trình WWW (Java),https://www.amazon.com/Foundations-Java-Programming-World-Wide/dp/1568848110,2101635
+40,Lập trình IoTs,coursera.org,2101637
+41,Phát triển ứng dụng Web với Qt Engine,coursera.org,2101669
+42,Những môn chính học kỳ 8,google.com,1111
+43,Lập trình phân tích dữ liệu 2,coursera.org,2101589
+44,Automat & ngôn ngữ hình thức,coursera.org,2101441
+45,Lập trình thiết bị di động nâng cao,https://www.amazon.com/Android-Development-Intermediate-Advanced-Programmers/dp/1481824155,2101636
+46,Kiến trúc hướng dịch vụ và Điện toán đám mây,coursera.org,2101661
+47,Nhập môn dữ liệu lớn,coursera.org,2101582
+48,Quản lý dự án CNTT,https://www.amazon.com/Project-Management-Track-Start-Finish/dp/0071700439z,2101648
+49,Tiếp thị điện tử,coursera.org,2101544
+50,Những môn chính học kỳ 9,google.com,1111

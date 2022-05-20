@@ -1,0 +1,52 @@
+﻿CourseID,Name,Url,Code
+1,Những môn chính học kỳ 1,google.com,1111
+2,Những môn chính học kỳ 2,google.com,1111
+3,Logic học,https://www.amazon.com/Introductory-Logic-Fundamentals-Thinking-Student/dp/1591281652,2113438
+4,Phương pháp tính,coursera.org,2113435
+5,Vật lý đại cương,coursera.org,2113437
+6,Toán ứng dụng,coursera.org,2113434
+7,Hàm phức và phép biến đổi Laplace,coursera.org,2113436
+8,Những môn chính học kỳ 3,google.com,1111
+9,Lập trình trong CNTT với Python,coursera.org,2101716
+10,Lập trình IoT với Python,coursera.org,2101717
+11,Lập trình trong CNTT với Java,https://www.amazon.com/Intro-Java-Programming-Comprehensive-Version/dp/0133761312,2101718
+12,Những môn chính học kỳ 4,google.com,1111
+13,Kỹ năng xây dựng kế hoạch,https://www.amazon.com/Powerful-Planning-Skills-Peter-Capezio/dp/1564144410,2132002
+14,Quản trị học,coursera.org,2107483
+15,Quản trị doanh nghiệp,coursera.org,2107510
+16,Kế toán cơ bản,coursera.org,2127481
+17,Môi trường và con người,coursera.org,2123800
+18,Giao tiếp kinh doanh,coursera.org,2107492
+19,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,coursera.org,2101727
+20,Những môn chính học kỳ 5,google.com,1111
+21,Kiến trúc và cài đặt hệ CSDL,https://www.amazon.com/Guide-Database-Management-System-Satish/dp/8183331726,2101426
+22,Cơ sở dữ liệu phân tán,coursera.org,2101659
+23,Hệ quản trị cơ sở dữ liệu,coursera.org,2101425
+24,Công cụ Web và Website hướng dữ liệu,coursera.org,2101664
+25,Phát triển ứng dụng Web,https://www.amazon.com/PHP-Beginners-Hands-Project-Project-ebook/dp/B08BK7PPT2,2101579
+26,Thương mại điện tử,coursera.org,2101652
+27,Những môn chính học kỳ 6,google.com,1111
+28,Điện toán đám mây,https://www.amazon.com/Cloud-Computing-Concepts-Technology-Architecture/dp/0133387526,2101577
+29,Kiến trúc lưu trữ phân tán,coursera.org,2101566
+30,Điện toán cụm,coursera.org,2101598
+31,Lý thuyết đồ thị,https://www.amazon.com/Introduction-Graph-Theory-Dover-Mathematics/dp/0486678709,2101404
+32,Ngôn ngữ lập trình,coursera.org,2101442
+33,Phân tích và quản lý yêu cầu,coursera.org,2101628
+34,Những môn chính học kỳ 7,google.com,1111
+35,Truyền số liệu,coursera.org,2101653
+36,Quản trị dịch vụ mạng,https://www.amazon.com/Cable-Networks-Services-Management-Press-ebook/dp/B00RZD8J76,2101722
+37,Kịch bản tích hợp nâng cao,coursera.org,2101599
+38,Mạng không dây,https://www.amazon.com/Wireless-Networks-Mobile-Computing-Koushik-ebook/dp/B017A30VY4,2101470
+39,Trí tuệ nhân tạo,coursera.org,2101419
+40,Quản trị dự án hệ thống thông tin,coursera.org,2101651
+41,Tâm lí học đại cương,coursera.org,2110585
+42,Cơ sở văn hóa Việt Nam,coursera.org,2111491
+43,Xã hội học,coursera.org,2113439
+44,Tiếng Việt thực hành,https://vietbooks.info/threads/tieng-viet-thuc-hanh-nxb-giao-duc-2009-bui-minh-toan-280-trang.27669,2111492
+45,Âm nhạc - Nhạc lý và Guitar căn bản,coursera.org,2112011
+46,Hội họa,coursera.org,2106529
+47,Những môn chính học kỳ 8,google.com,1111
+48,Hệ thống ảo và khả năng mở rộng dữ liệu,https://www.amazon.com/Scalability-Realtime-Warehouses-BigData-Computer/dp/1515092410,2101699
+49,Lập trình phân tích dữ liệu 1,coursera.org,2101584
+50,Automat và ngôn ngữ hình thức,coursera.org,2101441
+51,Những môn chính học kỳ 9,google.com,1111

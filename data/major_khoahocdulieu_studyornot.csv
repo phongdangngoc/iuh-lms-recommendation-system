@@ -1,0 +1,1001 @@
+﻿StudentID,CourseID,Name,StudyOrNot,Semester,Group
+1,1,Những môn chính học kỳ 1,1,1,0
+1,2,Những môn chính học kỳ 2,1,2,0
+1,3,Logic học,1,2,1
+1,4,Phương pháp tính,0,2,1
+1,5,Vật lý đại cương,0,2,1
+1,6,Toán ứng dụng,0,2,1
+1,7,Hàm phức và phép biến đổi Laplace,0,2,1
+1,8,Những môn chính học kỳ 3,1,3,0
+1,9,Kỹ năng xây dựng kế hoạch ,1,3,1
+1,10,Quản trị học,0,3,1
+1,11,Quản trị doanh nghiệp,0,3,1
+1,12,Kế toán cơ bản,0,3,1
+1,13,Môi trường và con người ,0,3,1
+1,14,Giao tiếp kinh doanh,0,3,1
+1,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+1,16,Những môn chính học kỳ 4,1,4,0
+1,17,Giải thuật và tối ưu hoá phân tán,0,4,1
+1,18,Trực quan hóa dữ liệu,1,4,1
+1,19,Đại số tuyến tính tính toán,0,4,1
+1,20,Quá trình ngẫu nhiên,0,4,2
+1,21,Các ngôn ngữ truy vấn cơ sở dữ liệu,0,4,2
+1,22,Kiến trúc hướng dịch vụ và Điện toán đám mây,1,4,2
+1,23,Những môn chính học kỳ 5,1,5,0
+1,24,Phân tích chuỗi thời gian,1,5,1
+1,25,Xử lý ảnh ,0,5,1
+1,26,Kĩ thuật tài chính,0,5,1
+1,27,Những môn chính học kỳ 6,1,6,0
+1,28,Tiếp thị điện tử ,0,6,1
+1,29,Tương tác người máy ,0,6,1
+1,30,Giao dịch định lượng,1,6,1
+1,31,Nhập môn Robot,0,6,1
+1,32,Công nghệ phần mềm ,1,6,2
+1,33,Tính toán song song,0,6,2
+1,34,Khai phá đồ thị,0,6,2
+1,35,Những môn chính học kỳ 7,1,7,0
+1,36,Hệ khuyến nghị,1,7,1
+1,37,Nhập môn an toàn thông tin,0,7,1
+1,38,Lý thuyết trò chơi,0,7,1
+1,39,Tâm lí học đại cương,0,7,2
+1,40,Cơ sở văn hóa Việt Nam,0,7,2
+1,41,Xã hội học,0,7,2
+1,42,Tiếng Việt thực hành,0,7,2
+1,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,2
+1,44,Hội họa,0,7,2
+1,45,Những môn chính học kỳ 8,1,8,0
+1,46,Phân tích dữ liệu Bayesian,0,8,1
+1,47,Đảm bảo chất lượng và Kiểm thử phần mềm ,0,8,1
+1,48,Phân tích kinh doanh,0,8,1
+1,49,Giải tích ngẫu nhiên cho tài chính,0,8,1
+1,50,Những môn chính học kỳ 9,1,9,0
+2,1,Những môn chính học kỳ 1,1,1,0
+2,2,Những môn chính học kỳ 2,1,2,0
+2,3,Logic học,1,2,1
+2,4,Phương pháp tính,0,2,1
+2,5,Vật lý đại cương,0,2,1
+2,6,Toán ứng dụng,0,2,1
+2,7,Hàm phức và phép biến đổi Laplace,0,2,1
+2,8,Những môn chính học kỳ 3,1,3,0
+2,9,Kỹ năng xây dựng kế hoạch ,1,3,1
+2,10,Quản trị học,0,3,1
+2,11,Quản trị doanh nghiệp,0,3,1
+2,12,Kế toán cơ bản,0,3,1
+2,13,Môi trường và con người ,0,3,1
+2,14,Giao tiếp kinh doanh,0,3,1
+2,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+2,16,Những môn chính học kỳ 4,1,4,0
+2,17,Giải thuật và tối ưu hoá phân tán,0,4,1
+2,18,Trực quan hóa dữ liệu,0,4,1
+2,19,Đại số tuyến tính tính toán,1,4,1
+2,20,Quá trình ngẫu nhiên,0,4,2
+2,21,Các ngôn ngữ truy vấn cơ sở dữ liệu,0,4,2
+2,22,Kiến trúc hướng dịch vụ và Điện toán đám mây,1,4,2
+2,23,Những môn chính học kỳ 5,1,5,0
+2,24,Phân tích chuỗi thời gian,0,5,1
+2,25,Xử lý ảnh,0,5,1
+2,26,Kĩ thuật tài chính,0,5,1
+2,27,Những môn chính học kỳ 6,1,6,0
+2,28,Tiếp thị điện tử ,0,6,1
+2,29,Tương tác người máy ,0,6,1
+2,30,Giao dịch định lượng,0,6,1
+2,31,Nhập môn Robot,0,6,1
+2,32,Công nghệ phần mềm ,0,6,2
+2,33,Tính toán song song,0,6,2
+2,34,Khai phá đồ thị,0,6,2
+2,35,Những môn chính học kỳ 7,1,7,0
+2,36,Hệ khuyến nghị,0,7,1
+2,37,Nhập môn an toàn thông tin,0,7,1
+2,38,Lý thuyết trò chơi,0,7,1
+2,39,Tâm lí học đại cương,0,7,2
+2,40,Cơ sở văn hóa Việt Nam,0,7,2
+2,41,Xã hội học,0,7,2
+2,42,Tiếng Việt thực hành,0,7,2
+2,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,2
+2,44,Hội họa,0,7,2
+2,45,Những môn chính học kỳ 8,1,8,0
+2,46,Phân tích dữ liệu Bayesian,0,8,1
+2,47,Đảm bảo chất lượng và Kiểm thử phần mềm ,0,8,1
+2,48,Phân tích kinh doanh,0,8,1
+2,49,Giải tích ngẫu nhiên cho tài chính,0,8,1
+2,50,Những môn chính học kỳ 9,1,9,0
+3,1,Những môn chính học kỳ 1,1,1,0
+3,2,Những môn chính học kỳ 2,1,2,0
+3,3,Logic học,0,2,1
+3,4,Phương pháp tính,0,2,1
+3,5,Vật lý đại cương,1,2,1
+3,6,Toán ứng dụng,0,2,1
+3,7,Hàm phức và phép biến đổi Laplace,0,2,1
+3,8,Những môn chính học kỳ 3,1,3,0
+3,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+3,10,Quản trị học,0,3,1
+3,11,Quản trị doanh nghiệp,0,3,1
+3,12,Kế toán cơ bản,1,3,1
+3,13,Môi trường và con người ,0,3,1
+3,14,Giao tiếp kinh doanh,0,3,1
+3,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+3,16,Những môn chính học kỳ 4,1,4,0
+3,17,Giải thuật và tối ưu hoá phân tán,0,4,1
+3,18,Trực quan hóa dữ liệu,0,4,1
+3,19,Đại số tuyến tính tính toán,1,4,1
+3,20,Quá trình ngẫu nhiên,0,4,2
+3,21,Các ngôn ngữ truy vấn cơ sở dữ liệu,0,4,2
+3,22,Kiến trúc hướng dịch vụ và Điện toán đám mây,1,4,2
+3,23,Những môn chính học kỳ 5,1,5,0
+3,24,Phân tích chuỗi thời gian,0,5,1
+3,25,Xử lý ảnh,1,5,1
+3,26,Kĩ thuật tài chính,0,5,1
+3,27,Những môn chính học kỳ 6,1,6,0
+3,28,Tiếp thị điện tử ,0,6,1
+3,29,Tương tác người máy ,0,6,1
+3,30,Giao dịch định lượng,0,6,1
+3,31,Nhập môn Robot,0,6,1
+3,32,Công nghệ phần mềm ,1,6,2
+3,33,Tính toán song song,0,6,2
+3,34,Khai phá đồ thị,0,6,2
+3,35,Những môn chính học kỳ 7,1,7,0
+3,36,Hệ khuyến nghị,0,7,1
+3,37,Nhập môn an toàn thông tin,1,7,1
+3,38,Lý thuyết trò chơi,0,7,1
+3,39,Tâm lí học đại cương,0,7,2
+3,40,Cơ sở văn hóa Việt Nam,0,7,2
+3,41,Xã hội học,0,7,2
+3,42,Tiếng Việt thực hành,0,7,2
+3,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,2
+3,44,Hội họa,0,7,2
+3,45,Những môn chính học kỳ 8,1,8,0
+3,46,Phân tích dữ liệu Bayesian,1,8,1
+3,47,Đảm bảo chất lượng và Kiểm thử phần mềm ,0,8,1
+3,48,Phân tích kinh doanh,0,8,1
+3,49,Giải tích ngẫu nhiên cho tài chính,0,8,1
+3,50,Những môn chính học kỳ 9,1,9,0
+4,1,Những môn chính học kỳ 1,1,1,0
+4,2,Những môn chính học kỳ 2,1,2,0
+4,3,Logic học,1,2,1
+4,4,Phương pháp tính,0,2,1
+4,5,Vật lý đại cương,0,2,1
+4,6,Toán ứng dụng,0,2,1
+4,7,Hàm phức và phép biến đổi Laplace,0,2,1
+4,8,Những môn chính học kỳ 3,1,3,0
+4,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+4,10,Quản trị học,0,3,1
+4,11,Quản trị doanh nghiệp,0,3,1
+4,12,Kế toán cơ bản,0,3,1
+4,13,Môi trường và con người ,0,3,1
+4,14,Giao tiếp kinh doanh,0,3,1
+4,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,1,3,1
+4,16,Những môn chính học kỳ 4,1,4,0
+4,17,Giải thuật và tối ưu hoá phân tán,0,4,1
+4,18,Trực quan hóa dữ liệu,0,4,1
+4,19,Đại số tuyến tính tính toán,1,4,1
+4,20,Quá trình ngẫu nhiên,0,4,2
+4,21,Các ngôn ngữ truy vấn cơ sở dữ liệu,0,4,2
+4,22,Kiến trúc hướng dịch vụ và Điện toán đám mây,1,4,2
+4,23,Những môn chính học kỳ 5,1,5,0
+4,24,Phân tích chuỗi thời gian,0,5,1
+4,25,Xử lý ảnh ,0,5,1
+4,26,Kĩ thuật tài chính,0,5,1
+4,27,Những môn chính học kỳ 6,1,6,0
+4,28,Tiếp thị điện tử ,0,6,1
+4,29,Tương tác người máy ,0,6,1
+4,30,Giao dịch định lượng,0,6,1
+4,31,Nhập môn Robot,0,6,1
+4,32,Công nghệ phần mềm ,0,6,2
+4,33,Tính toán song song,0,6,2
+4,34,Khai phá đồ thị,0,6,2
+4,35,Những môn chính học kỳ 7,1,7,0
+4,36,Hệ khuyến nghị,0,7,1
+4,37,Nhập môn an toàn thông tin,0,7,1
+4,38,Lý thuyết trò chơi,0,7,1
+4,39,Tâm lí học đại cương,0,7,2
+4,40,Cơ sở văn hóa Việt Nam,0,7,2
+4,41,Xã hội học,0,7,2
+4,42,Tiếng Việt thực hành,1,7,2
+4,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,2
+4,44,Hội họa,0,7,2
+4,45,Những môn chính học kỳ 8,1,8,0
+4,46,Phân tích dữ liệu Bayesian,0,8,1
+4,47,Đảm bảo chất lượng và Kiểm thử phần mềm ,0,8,1
+4,48,Phân tích kinh doanh,0,8,1
+4,49,Giải tích ngẫu nhiên cho tài chính,0,8,1
+4,50,Những môn chính học kỳ 9,1,9,0
+5,1,Những môn chính học kỳ 1,1,1,0
+5,2,Những môn chính học kỳ 2,1,2,0
+5,3,Logic học,0,2,1
+5,4,Phương pháp tính,1,2,1
+5,5,Vật lý đại cương,0,2,1
+5,6,Toán ứng dụng,0,2,1
+5,7,Hàm phức và phép biến đổi Laplace,0,2,1
+5,8,Những môn chính học kỳ 3,1,3,0
+5,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+5,10,Quản trị học,1,3,1
+5,11,Quản trị doanh nghiệp,0,3,1
+5,12,Kế toán cơ bản,0,3,1
+5,13,Môi trường và con người ,0,3,1
+5,14,Giao tiếp kinh doanh,0,3,1
+5,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+5,16,Những môn chính học kỳ 4,1,4,0
+5,17,Giải thuật và tối ưu hoá phân tán,0,4,1
+5,18,Trực quan hóa dữ liệu,0,4,1
+5,19,Đại số tuyến tính tính toán,1,4,1
+5,20,Quá trình ngẫu nhiên,0,4,2
+5,21,Các ngôn ngữ truy vấn cơ sở dữ liệu,0,4,2
+5,22,Kiến trúc hướng dịch vụ và Điện toán đám mây,1,4,2
+5,23,Những môn chính học kỳ 5,1,5,0
+5,24,Phân tích chuỗi thời gian,0,5,1
+5,25,Xử lý ảnh ,1,5,1
+5,26,Kĩ thuật tài chính,0,5,1
+5,27,Những môn chính học kỳ 6,1,6,0
+5,28,Tiếp thị điện tử ,0,6,1
+5,29,Tương tác người máy ,0,6,1
+5,30,Giao dịch định lượng,1,6,1
+5,31,Nhập môn Robot,0,6,1
+5,32,Công nghệ phần mềm ,0,6,2
+5,33,Tính toán song song,0,6,2
+5,34,Khai phá đồ thị,1,6,2
+5,35,Những môn chính học kỳ 7,1,7,0
+5,36,Hệ khuyến nghị,0,7,1
+5,37,Nhập môn an toàn thông tin,1,7,1
+5,38,Lý thuyết trò chơi,0,7,1
+5,39,Tâm lí học đại cương,0,7,2
+5,40,Cơ sở văn hóa Việt Nam,0,7,2
+5,41,Xã hội học,0,7,2
+5,42,Tiếng Việt thực hành,1,7,2
+5,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,2
+5,44,Hội họa,0,7,2
+5,45,Những môn chính học kỳ 8,1,8,0
+5,46,Phân tích dữ liệu Bayesian,1,8,1
+5,47,Đảm bảo chất lượng và Kiểm thử phần mềm ,0,8,1
+5,48,Phân tích kinh doanh,0,8,1
+5,49,Giải tích ngẫu nhiên cho tài chính,0,8,1
+5,50,Những môn chính học kỳ 9,1,9,0
+6,1,Những môn chính học kỳ 1,1,1,0
+6,2,Những môn chính học kỳ 2,1,2,0
+6,3,Logic học,1,2,1
+6,4,Phương pháp tính,0,2,1
+6,5,Vật lý đại cương,0,2,1
+6,6,Toán ứng dụng,0,2,1
+6,7,Hàm phức và phép biến đổi Laplace,0,2,1
+6,8,Những môn chính học kỳ 3,1,3,0
+6,9,Kỹ năng xây dựng kế hoạch ,1,3,1
+6,10,Quản trị học,0,3,1
+6,11,Quản trị doanh nghiệp,0,3,1
+6,12,Kế toán cơ bản,0,3,1
+6,13,Môi trường và con người ,0,3,1
+6,14,Giao tiếp kinh doanh,0,3,1
+6,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+6,16,Những môn chính học kỳ 4,1,4,0
+6,17,Giải thuật và tối ưu hoá phân tán,0,4,1
+6,18,Trực quan hóa dữ liệu,0,4,1
+6,19,Đại số tuyến tính tính toán,1,4,1
+6,20,Quá trình ngẫu nhiên,0,4,2
+6,21,Các ngôn ngữ truy vấn cơ sở dữ liệu,0,4,2
+6,22,Kiến trúc hướng dịch vụ và Điện toán đám mây,1,4,2
+6,23,Những môn chính học kỳ 5,1,5,0
+6,24,Phân tích chuỗi thời gian,0,5,1
+6,25,Xử lý ảnh ,0,5,1
+6,26,Kĩ thuật tài chính,0,5,1
+6,27,Những môn chính học kỳ 6,1,6,0
+6,28,Tiếp thị điện tử ,0,6,1
+6,29,Tương tác người máy ,0,6,1
+6,30,Giao dịch định lượng,0,6,1
+6,31,Nhập môn Robot,0,6,1
+6,32,Công nghệ phần mềm ,0,6,2
+6,33,Tính toán song song,0,6,2
+6,34,Khai phá đồ thị,0,6,2
+6,35,Những môn chính học kỳ 7,1,7,0
+6,36,Hệ khuyến nghị,0,7,1
+6,37,Nhập môn an toàn thông tin,0,7,1
+6,38,Lý thuyết trò chơi,0,7,1
+6,39,Tâm lí học đại cương,0,7,2
+6,40,Cơ sở văn hóa Việt Nam,0,7,2
+6,41,Xã hội học,0,7,2
+6,42,Tiếng Việt thực hành,0,7,2
+6,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,2
+6,44,Hội họa,0,7,2
+6,45,Những môn chính học kỳ 8,1,8,0
+6,46,Phân tích dữ liệu Bayesian,0,8,1
+6,47,Đảm bảo chất lượng và Kiểm thử phần mềm ,0,8,1
+6,48,Phân tích kinh doanh,0,8,1
+6,49,Giải tích ngẫu nhiên cho tài chính,0,8,1
+6,50,Những môn chính học kỳ 9,1,9,0
+7,1,Những môn chính học kỳ 1,1,1,0
+7,2,Những môn chính học kỳ 2,1,2,0
+7,3,Logic học,1,2,1
+7,4,Phương pháp tính,0,2,1
+7,5,Vật lý đại cương,0,2,1
+7,6,Toán ứng dụng,0,2,1
+7,7,Hàm phức và phép biến đổi Laplace,0,2,1
+7,8,Những môn chính học kỳ 3,1,3,0
+7,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+7,10,Quản trị học,1,3,1
+7,11,Quản trị doanh nghiệp,0,3,1
+7,12,Kế toán cơ bản,0,3,1
+7,13,Môi trường và con người ,0,3,1
+7,14,Giao tiếp kinh doanh,0,3,1
+7,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+7,16,Những môn chính học kỳ 4,1,4,0
+7,17,Giải thuật và tối ưu hoá phân tán,0,4,1
+7,18,Trực quan hóa dữ liệu,1,4,1
+7,19,Đại số tuyến tính tính toán,0,4,1
+7,20,Quá trình ngẫu nhiên,0,4,2
+7,21,Các ngôn ngữ truy vấn cơ sở dữ liệu,0,4,2
+7,22,Kiến trúc hướng dịch vụ và Điện toán đám mây,0,4,2
+7,23,Những môn chính học kỳ 5,1,5,0
+7,24,Phân tích chuỗi thời gian,0,5,1
+7,25,Xử lý ảnh ,1,5,1
+7,26,Kĩ thuật tài chính,0,5,1
+7,27,Những môn chính học kỳ 6,1,6,0
+7,28,Tiếp thị điện tử ,0,6,1
+7,29,Tương tác người máy ,0,6,1
+7,30,Giao dịch định lượng,0,6,1
+7,31,Nhập môn Robot,0,6,1
+7,32,Công nghệ phần mềm ,0,6,2
+7,33,Tính toán song song,0,6,2
+7,34,Khai phá đồ thị,1,6,2
+7,35,Những môn chính học kỳ 7,1,7,0
+7,36,Hệ khuyến nghị,0,7,1
+7,37,Nhập môn an toàn thông tin,0,7,1
+7,38,Lý thuyết trò chơi,1,7,1
+7,39,Tâm lí học đại cương,0,7,2
+7,40,Cơ sở văn hóa Việt Nam,0,7,2
+7,41,Xã hội học,0,7,2
+7,42,Tiếng Việt thực hành,0,7,2
+7,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,2
+7,44,Hội họa,0,7,2
+7,45,Những môn chính học kỳ 8,1,8,0
+7,46,Phân tích dữ liệu Bayesian,1,8,1
+7,47,Đảm bảo chất lượng và Kiểm thử phần mềm ,0,8,1
+7,48,Phân tích kinh doanh,0,8,1
+7,49,Giải tích ngẫu nhiên cho tài chính,0,8,1
+7,50,Những môn chính học kỳ 9,1,9,0
+8,1,Những môn chính học kỳ 1,1,1,0
+8,2,Những môn chính học kỳ 2,1,2,0
+8,3,Logic học,1,2,1
+8,4,Phương pháp tính,0,2,1
+8,5,Vật lý đại cương,0,2,1
+8,6,Toán ứng dụng,0,2,1
+8,7,Hàm phức và phép biến đổi Laplace,0,2,1
+8,8,Những môn chính học kỳ 3,1,3,0
+8,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+8,10,Quản trị học,0,3,1
+8,11,Quản trị doanh nghiệp,0,3,1
+8,12,Kế toán cơ bản,0,3,1
+8,13,Môi trường và con người ,0,3,1
+8,14,Giao tiếp kinh doanh,0,3,1
+8,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,1,3,1
+8,16,Những môn chính học kỳ 4,1,4,0
+8,17,Giải thuật và tối ưu hoá phân tán,0,4,1
+8,18,Trực quan hóa dữ liệu,0,4,1
+8,19,Đại số tuyến tính tính toán,1,4,1
+8,20,Quá trình ngẫu nhiên,0,4,2
+8,21,Các ngôn ngữ truy vấn cơ sở dữ liệu,0,4,2
+8,22,Kiến trúc hướng dịch vụ và Điện toán đám mây,1,4,2
+8,23,Những môn chính học kỳ 5,1,5,0
+8,24,Phân tích chuỗi thời gian,0,5,1
+8,25,Xử lý ảnh ,0,5,1
+8,26,Kĩ thuật tài chính,0,5,1
+8,27,Những môn chính học kỳ 6,1,6,0
+8,28,Tiếp thị điện tử ,0,6,1
+8,29,Tương tác người máy ,0,6,1
+8,30,Giao dịch định lượng,0,6,1
+8,31,Nhập môn Robot,0,6,1
+8,32,Công nghệ phần mềm ,0,6,2
+8,33,Tính toán song song,0,6,2
+8,34,Khai phá đồ thị,0,6,2
+8,35,Những môn chính học kỳ 7,1,7,0
+8,36,Hệ khuyến nghị,0,7,1
+8,37,Nhập môn an toàn thông tin,1,7,1
+8,38,Lý thuyết trò chơi,0,7,1
+8,39,Tâm lí học đại cương,0,7,2
+8,40,Cơ sở văn hóa Việt Nam,0,7,2
+8,41,Xã hội học,0,7,2
+8,42,Tiếng Việt thực hành,1,7,2
+8,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,2
+8,44,Hội họa,0,7,2
+8,45,Những môn chính học kỳ 8,1,8,0
+8,46,Phân tích dữ liệu Bayesian,0,8,1
+8,47,Đảm bảo chất lượng và Kiểm thử phần mềm ,0,8,1
+8,48,Phân tích kinh doanh,0,8,1
+8,49,Giải tích ngẫu nhiên cho tài chính,0,8,1
+8,50,Những môn chính học kỳ 9,1,9,0
+9,1,Những môn chính học kỳ 1,1,1,0
+9,2,Những môn chính học kỳ 2,1,2,0
+9,3,Logic học,1,2,1
+9,4,Phương pháp tính,0,2,1
+9,5,Vật lý đại cương,0,2,1
+9,6,Toán ứng dụng,0,2,1
+9,7,Hàm phức và phép biến đổi Laplace,0,2,1
+9,8,Những môn chính học kỳ 3,1,3,0
+9,9,Kỹ năng xây dựng kế hoạch ,1,3,1
+9,10,Quản trị học,0,3,1
+9,11,Quản trị doanh nghiệp,0,3,1
+9,12,Kế toán cơ bản,0,3,1
+9,13,Môi trường và con người ,0,3,1
+9,14,Giao tiếp kinh doanh,0,3,1
+9,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+9,16,Những môn chính học kỳ 4,1,4,0
+9,17,Giải thuật và tối ưu hoá phân tán,0,4,1
+9,18,Trực quan hóa dữ liệu,0,4,1
+9,19,Đại số tuyến tính tính toán,1,4,1
+9,20,Quá trình ngẫu nhiên,0,4,2
+9,21,Các ngôn ngữ truy vấn cơ sở dữ liệu,0,4,2
+9,22,Kiến trúc hướng dịch vụ và Điện toán đám mây,0,4,2
+9,23,Những môn chính học kỳ 5,1,5,0
+9,24,Phân tích chuỗi thời gian,0,5,1
+9,25,Xử lý ảnh ,1,5,1
+9,26,Kĩ thuật tài chính,0,5,1
+9,27,Những môn chính học kỳ 6,1,6,0
+9,28,Tiếp thị điện tử ,0,6,1
+9,29,Tương tác người máy ,0,6,1
+9,30,Giao dịch định lượng,0,6,1
+9,31,Nhập môn Robot,0,6,1
+9,32,Công nghệ phần mềm ,1,6,2
+9,33,Tính toán song song,0,6,2
+9,34,Khai phá đồ thị,0,6,2
+9,35,Những môn chính học kỳ 7,1,7,0
+9,36,Hệ khuyến nghị,0,7,1
+9,37,Nhập môn an toàn thông tin,0,7,1
+9,38,Lý thuyết trò chơi,1,7,1
+9,39,Tâm lí học đại cương,0,7,2
+9,40,Cơ sở văn hóa Việt Nam,0,7,2
+9,41,Xã hội học,0,7,2
+9,42,Tiếng Việt thực hành,1,7,2
+9,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,2
+9,44,Hội họa,0,7,2
+9,45,Những môn chính học kỳ 8,1,8,0
+9,46,Phân tích dữ liệu Bayesian,0,8,1
+9,47,Đảm bảo chất lượng và Kiểm thử phần mềm ,1,8,1
+9,48,Phân tích kinh doanh,0,8,1
+9,49,Giải tích ngẫu nhiên cho tài chính,0,8,1
+9,50,Những môn chính học kỳ 9,1,9,0
+10,1,Những môn chính học kỳ 1,1,1,0
+10,2,Những môn chính học kỳ 2,1,2,0
+10,3,Logic học,1,2,1
+10,4,Phương pháp tính,0,2,1
+10,5,Vật lý đại cương,0,2,1
+10,6,Toán ứng dụng,0,2,1
+10,7,Hàm phức và phép biến đổi Laplace,0,2,1
+10,8,Những môn chính học kỳ 3,1,3,0
+10,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+10,10,Quản trị học,0,3,1
+10,11,Quản trị doanh nghiệp,0,3,1
+10,12,Kế toán cơ bản,0,3,1
+10,13,Môi trường và con người ,0,3,1
+10,14,Giao tiếp kinh doanh,1,3,1
+10,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+10,16,Những môn chính học kỳ 4,1,4,0
+10,17,Giải thuật và tối ưu hoá phân tán,0,4,1
+10,18,Trực quan hóa dữ liệu,0,4,1
+10,19,Đại số tuyến tính tính toán,1,4,1
+10,20,Quá trình ngẫu nhiên,0,4,2
+10,21,Các ngôn ngữ truy vấn cơ sở dữ liệu,0,4,2
+10,22,Kiến trúc hướng dịch vụ và Điện toán đám mây,0,4,2
+10,23,Những môn chính học kỳ 5,1,5,0
+10,24,Phân tích chuỗi thời gian,0,5,1
+10,25,Xử lý ảnh ,1,5,1
+10,26,Kĩ thuật tài chính,0,5,1
+10,27,Những môn chính học kỳ 6,1,6,0
+10,28,Tiếp thị điện tử ,0,6,1
+10,29,Tương tác người máy ,0,6,1
+10,30,Giao dịch định lượng,0,6,1
+10,31,Nhập môn Robot,0,6,1
+10,32,Công nghệ phần mềm ,1,6,2
+10,33,Tính toán song song,0,6,2
+10,34,Khai phá đồ thị,0,6,2
+10,35,Những môn chính học kỳ 7,1,7,0
+10,36,Hệ khuyến nghị,0,7,1
+10,37,Nhập môn an toàn thông tin,0,7,1
+10,38,Lý thuyết trò chơi,0,7,1
+10,39,Tâm lí học đại cương,0,7,2
+10,40,Cơ sở văn hóa Việt Nam,0,7,2
+10,41,Xã hội học,0,7,2
+10,42,Tiếng Việt thực hành,1,7,2
+10,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,2
+10,44,Hội họa,0,7,2
+10,45,Những môn chính học kỳ 8,1,8,0
+10,46,Phân tích dữ liệu Bayesian,0,8,1
+10,47,Đảm bảo chất lượng và Kiểm thử phần mềm ,0,8,1
+10,48,Phân tích kinh doanh,1,8,1
+10,49,Giải tích ngẫu nhiên cho tài chính,0,8,1
+10,50,Những môn chính học kỳ 9,1,9,0
+11,1,Những môn chính học kỳ 1,1,1,0
+11,2,Những môn chính học kỳ 2,1,2,0
+11,3,Logic học,0,2,1
+11,4,Phương pháp tính,0,2,1
+11,5,Vật lý đại cương,1,2,1
+11,6,Toán ứng dụng,0,2,1
+11,7,Hàm phức và phép biến đổi Laplace,0,2,1
+11,8,Những môn chính học kỳ 3,1,3,0
+11,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+11,10,Quản trị học,0,3,1
+11,11,Quản trị doanh nghiệp,0,3,1
+11,12,Kế toán cơ bản,0,3,1
+11,13,Môi trường và con người ,1,3,1
+11,14,Giao tiếp kinh doanh,0,3,1
+11,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+11,16,Những môn chính học kỳ 4,1,4,0
+11,17,Giải thuật và tối ưu hoá phân tán,0,4,1
+11,18,Trực quan hóa dữ liệu,0,4,1
+11,19,Đại số tuyến tính tính toán,1,4,1
+11,20,Quá trình ngẫu nhiên,0,4,2
+11,21,Các ngôn ngữ truy vấn cơ sở dữ liệu,0,4,2
+11,22,Kiến trúc hướng dịch vụ và Điện toán đám mây,0,4,2
+11,23,Những môn chính học kỳ 5,1,5,0
+11,24,Phân tích chuỗi thời gian,1,5,1
+11,25,Xử lý ảnh ,0,5,1
+11,26,Kĩ thuật tài chính,0,5,1
+11,27,Những môn chính học kỳ 6,1,6,0
+11,28,Tiếp thị điện tử ,0,6,1
+11,29,Tương tác người máy ,0,6,1
+11,30,Giao dịch định lượng,0,6,1
+11,31,Nhập môn Robot,0,6,1
+11,32,Công nghệ phần mềm ,0,6,2
+11,33,Tính toán song song,0,6,2
+11,34,Khai phá đồ thị,0,6,2
+11,35,Những môn chính học kỳ 7,1,7,0
+11,36,Hệ khuyến nghị,0,7,1
+11,37,Nhập môn an toàn thông tin,0,7,1
+11,38,Lý thuyết trò chơi,0,7,1
+11,39,Tâm lí học đại cương,1,7,2
+11,40,Cơ sở văn hóa Việt Nam,0,7,2
+11,41,Xã hội học,0,7,2
+11,42,Tiếng Việt thực hành,0,7,2
+11,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,2
+11,44,Hội họa,0,7,2
+11,45,Những môn chính học kỳ 8,1,8,0
+11,46,Phân tích dữ liệu Bayesian,0,8,1
+11,47,Đảm bảo chất lượng và Kiểm thử phần mềm ,0,8,1
+11,48,Phân tích kinh doanh,0,8,1
+11,49,Giải tích ngẫu nhiên cho tài chính,1,8,1
+11,50,Những môn chính học kỳ 9,1,9,0
+12,1,Những môn chính học kỳ 1,1,1,0
+12,2,Những môn chính học kỳ 2,1,2,0
+12,3,Logic học,1,2,1
+12,4,Phương pháp tính,0,2,1
+12,5,Vật lý đại cương,0,2,1
+12,6,Toán ứng dụng,0,2,1
+12,7,Hàm phức và phép biến đổi Laplace,0,2,1
+12,8,Những môn chính học kỳ 3,1,3,0
+12,9,Kỹ năng xây dựng kế hoạch ,1,3,1
+12,10,Quản trị học,0,3,1
+12,11,Quản trị doanh nghiệp,0,3,1
+12,12,Kế toán cơ bản,0,3,1
+12,13,Môi trường và con người ,0,3,1
+12,14,Giao tiếp kinh doanh,0,3,1
+12,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+12,16,Những môn chính học kỳ 4,1,4,0
+12,17,Giải thuật và tối ưu hoá phân tán,0,4,1
+12,18,Trực quan hóa dữ liệu,0,4,1
+12,19,Đại số tuyến tính tính toán,1,4,1
+12,20,Quá trình ngẫu nhiên,0,4,2
+12,21,Các ngôn ngữ truy vấn cơ sở dữ liệu,0,4,2
+12,22,Kiến trúc hướng dịch vụ và Điện toán đám mây,1,4,2
+12,23,Những môn chính học kỳ 5,1,5,0
+12,24,Phân tích chuỗi thời gian,0,5,1
+12,25,Xử lý ảnh ,0,5,1
+12,26,Kĩ thuật tài chính,0,5,1
+12,27,Những môn chính học kỳ 6,1,6,0
+12,28,Tiếp thị điện tử ,0,6,1
+12,29,Tương tác người máy ,0,6,1
+12,30,Giao dịch định lượng,0,6,1
+12,31,Nhập môn Robot,0,6,1
+12,32,Công nghệ phần mềm ,0,6,2
+12,33,Tính toán song song,0,6,2
+12,34,Khai phá đồ thị,0,6,2
+12,35,Những môn chính học kỳ 7,1,7,0
+12,36,Hệ khuyến nghị,0,7,1
+12,37,Nhập môn an toàn thông tin,0,7,1
+12,38,Lý thuyết trò chơi,0,7,1
+12,39,Tâm lí học đại cương,1,7,2
+12,40,Cơ sở văn hóa Việt Nam,0,7,2
+12,41,Xã hội học,0,7,2
+12,42,Tiếng Việt thực hành,0,7,2
+12,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,2
+12,44,Hội họa,0,7,2
+12,45,Những môn chính học kỳ 8,1,8,0
+12,46,Phân tích dữ liệu Bayesian,0,8,1
+12,47,Đảm bảo chất lượng và Kiểm thử phần mềm ,0,8,1
+12,48,Phân tích kinh doanh,0,8,1
+12,49,Giải tích ngẫu nhiên cho tài chính,0,8,1
+12,50,Những môn chính học kỳ 9,1,9,0
+13,1,Những môn chính học kỳ 1,1,1,0
+13,2,Những môn chính học kỳ 2,1,2,0
+13,3,Logic học,1,2,1
+13,4,Phương pháp tính,0,2,1
+13,5,Vật lý đại cương,0,2,1
+13,6,Toán ứng dụng,0,2,1
+13,7,Hàm phức và phép biến đổi Laplace,0,2,1
+13,8,Những môn chính học kỳ 3,1,3,0
+13,9,Kỹ năng xây dựng kế hoạch ,1,3,1
+13,10,Quản trị học,0,3,1
+13,11,Quản trị doanh nghiệp,0,3,1
+13,12,Kế toán cơ bản,0,3,1
+13,13,Môi trường và con người ,0,3,1
+13,14,Giao tiếp kinh doanh,0,3,1
+13,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+13,16,Những môn chính học kỳ 4,1,4,0
+13,17,Giải thuật và tối ưu hoá phân tán,0,4,1
+13,18,Trực quan hóa dữ liệu,1,4,1
+13,19,Đại số tuyến tính tính toán,0,4,1
+13,20,Quá trình ngẫu nhiên,0,4,2
+13,21,Các ngôn ngữ truy vấn cơ sở dữ liệu,0,4,2
+13,22,Kiến trúc hướng dịch vụ và Điện toán đám mây,0,4,2
+13,23,Những môn chính học kỳ 5,1,5,0
+13,24,Phân tích chuỗi thời gian,0,5,1
+13,25,Xử lý ảnh ,0,5,1
+13,26,Kĩ thuật tài chính,1,5,1
+13,27,Những môn chính học kỳ 6,1,6,0
+13,28,Tiếp thị điện tử ,0,6,1
+13,29,Tương tác người máy ,0,6,1
+13,30,Giao dịch định lượng,0,6,1
+13,31,Nhập môn Robot,0,6,1
+13,32,Công nghệ phần mềm ,1,6,2
+13,33,Tính toán song song,0,6,2
+13,34,Khai phá đồ thị,0,6,2
+13,35,Những môn chính học kỳ 7,1,7,0
+13,36,Hệ khuyến nghị,0,7,1
+13,37,Nhập môn an toàn thông tin,1,7,1
+13,38,Lý thuyết trò chơi,0,7,1
+13,39,Tâm lí học đại cương,0,7,2
+13,40,Cơ sở văn hóa Việt Nam,0,7,2
+13,41,Xã hội học,0,7,2
+13,42,Tiếng Việt thực hành,0,7,2
+13,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,2
+13,44,Hội họa,0,7,2
+13,45,Những môn chính học kỳ 8,1,8,0
+13,46,Phân tích dữ liệu Bayesian,1,8,1
+13,47,Đảm bảo chất lượng và Kiểm thử phần mềm ,0,8,1
+13,48,Phân tích kinh doanh,0,8,1
+13,49,Giải tích ngẫu nhiên cho tài chính,0,8,1
+13,50,Những môn chính học kỳ 9,1,9,0
+14,1,Những môn chính học kỳ 1,1,1,0
+14,2,Những môn chính học kỳ 2,1,2,0
+14,3,Logic học,1,2,1
+14,4,Phương pháp tính,0,2,1
+14,5,Vật lý đại cương,0,2,1
+14,6,Toán ứng dụng,0,2,1
+14,7,Hàm phức và phép biến đổi Laplace,0,2,1
+14,8,Những môn chính học kỳ 3,1,3,0
+14,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+14,10,Quản trị học,0,3,1
+14,11,Quản trị doanh nghiệp,0,3,1
+14,12,Kế toán cơ bản,0,3,1
+14,13,Môi trường và con người ,0,3,1
+14,14,Giao tiếp kinh doanh,0,3,1
+14,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,1,3,1
+14,16,Những môn chính học kỳ 4,1,4,0
+14,17,Giải thuật và tối ưu hoá phân tán,0,4,1
+14,18,Trực quan hóa dữ liệu,0,4,1
+14,19,Đại số tuyến tính tính toán,1,4,1
+14,20,Quá trình ngẫu nhiên,0,4,2
+14,21,Các ngôn ngữ truy vấn cơ sở dữ liệu,0,4,2
+14,22,Kiến trúc hướng dịch vụ và Điện toán đám mây,1,4,2
+14,23,Những môn chính học kỳ 5,1,5,0
+14,24,Phân tích chuỗi thời gian,0,5,1
+14,25,Xử lý ảnh ,0,5,1
+14,26,Kĩ thuật tài chính,0,5,1
+14,27,Những môn chính học kỳ 6,1,6,0
+14,28,Tiếp thị điện tử ,0,6,1
+14,29,Tương tác người máy ,0,6,1
+14,30,Giao dịch định lượng,0,6,1
+14,31,Nhập môn Robot,0,6,1
+14,32,Công nghệ phần mềm ,0,6,2
+14,33,Tính toán song song,0,6,2
+14,34,Khai phá đồ thị,0,6,2
+14,35,Những môn chính học kỳ 7,1,7,0
+14,36,Hệ khuyến nghị,0,7,1
+14,37,Nhập môn an toàn thông tin,0,7,1
+14,38,Lý thuyết trò chơi,0,7,1
+14,39,Tâm lí học đại cương,0,7,2
+14,40,Cơ sở văn hóa Việt Nam,0,7,2
+14,41,Xã hội học,0,7,2
+14,42,Tiếng Việt thực hành,0,7,2
+14,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,2
+14,44,Hội họa,0,7,2
+14,45,Những môn chính học kỳ 8,1,8,0
+14,46,Phân tích dữ liệu Bayesian,0,8,1
+14,47,Đảm bảo chất lượng và Kiểm thử phần mềm ,0,8,1
+14,48,Phân tích kinh doanh,0,8,1
+14,49,Giải tích ngẫu nhiên cho tài chính,0,8,1
+14,50,Những môn chính học kỳ 9,1,9,0
+15,1,Những môn chính học kỳ 1,1,1,0
+15,2,Những môn chính học kỳ 2,1,2,0
+15,3,Logic học,0,2,1
+15,4,Phương pháp tính,0,2,1
+15,5,Vật lý đại cương,0,2,1
+15,6,Toán ứng dụng,1,2,1
+15,7,Hàm phức và phép biến đổi Laplace,0,2,1
+15,8,Những môn chính học kỳ 3,1,3,0
+15,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+15,10,Quản trị học,0,3,1
+15,11,Quản trị doanh nghiệp,1,3,1
+15,12,Kế toán cơ bản,0,3,1
+15,13,Môi trường và con người ,0,3,1
+15,14,Giao tiếp kinh doanh,0,3,1
+15,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+15,16,Những môn chính học kỳ 4,1,4,0
+15,17,Giải thuật và tối ưu hoá phân tán,0,4,1
+15,18,Trực quan hóa dữ liệu,0,4,1
+15,19,Đại số tuyến tính tính toán,1,4,1
+15,20,Quá trình ngẫu nhiên,0,4,2
+15,21,Các ngôn ngữ truy vấn cơ sở dữ liệu,0,4,2
+15,22,Kiến trúc hướng dịch vụ và Điện toán đám mây,1,4,2
+15,23,Những môn chính học kỳ 5,1,5,0
+15,24,Phân tích chuỗi thời gian,0,5,1
+15,25,Xử lý ảnh ,0,5,1
+15,26,Kĩ thuật tài chính,0,5,1
+15,27,Những môn chính học kỳ 6,1,6,0
+15,28,Tiếp thị điện tử ,0,6,1
+15,29,Tương tác người máy ,0,6,1
+15,30,Giao dịch định lượng,0,6,1
+15,31,Nhập môn Robot,0,6,1
+15,32,Công nghệ phần mềm ,0,6,2
+15,33,Tính toán song song,0,6,2
+15,34,Khai phá đồ thị,0,6,2
+15,35,Những môn chính học kỳ 7,1,7,0
+15,36,Hệ khuyến nghị,0,7,1
+15,37,Nhập môn an toàn thông tin,1,7,1
+15,38,Lý thuyết trò chơi,0,7,1
+15,39,Tâm lí học đại cương,0,7,2
+15,40,Cơ sở văn hóa Việt Nam,0,7,2
+15,41,Xã hội học,0,7,2
+15,42,Tiếng Việt thực hành,1,7,2
+15,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,2
+15,44,Hội họa,0,7,2
+15,45,Những môn chính học kỳ 8,1,8,0
+15,46,Phân tích dữ liệu Bayesian,0,8,1
+15,47,Đảm bảo chất lượng và Kiểm thử phần mềm ,0,8,1
+15,48,Phân tích kinh doanh,0,8,1
+15,49,Giải tích ngẫu nhiên cho tài chính,0,8,1
+15,50,Những môn chính học kỳ 9,1,9,0
+16,1,Những môn chính học kỳ 1,1,1,0
+16,2,Những môn chính học kỳ 2,1,2,0
+16,3,Logic học,1,2,1
+16,4,Phương pháp tính,0,2,1
+16,5,Vật lý đại cương,0,2,1
+16,6,Toán ứng dụng,0,2,1
+16,7,Hàm phức và phép biến đổi Laplace,0,2,1
+16,8,Những môn chính học kỳ 3,1,3,0
+16,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+16,10,Quản trị học,0,3,1
+16,11,Quản trị doanh nghiệp,0,3,1
+16,12,Kế toán cơ bản,0,3,1
+16,13,Môi trường và con người ,0,3,1
+16,14,Giao tiếp kinh doanh,0,3,1
+16,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,1,3,1
+16,16,Những môn chính học kỳ 4,1,4,0
+16,17,Giải thuật và tối ưu hoá phân tán,1,4,1
+16,18,Trực quan hóa dữ liệu,0,4,1
+16,19,Đại số tuyến tính tính toán,0,4,1
+16,20,Quá trình ngẫu nhiên,0,4,2
+16,21,Các ngôn ngữ truy vấn cơ sở dữ liệu,0,4,2
+16,22,Kiến trúc hướng dịch vụ và Điện toán đám mây,0,4,2
+16,23,Những môn chính học kỳ 5,1,5,0
+16,24,Phân tích chuỗi thời gian,0,5,1
+16,25,Xử lý ảnh ,1,5,1
+16,26,Kĩ thuật tài chính,0,5,1
+16,27,Những môn chính học kỳ 6,1,6,0
+16,28,Tiếp thị điện tử ,0,6,1
+16,29,Tương tác người máy ,0,6,1
+16,30,Giao dịch định lượng,0,6,1
+16,31,Nhập môn Robot,0,6,1
+16,32,Công nghệ phần mềm ,1,6,2
+16,33,Tính toán song song,0,6,2
+16,34,Khai phá đồ thị,0,6,2
+16,35,Những môn chính học kỳ 7,1,7,0
+16,36,Hệ khuyến nghị,0,7,1
+16,37,Nhập môn an toàn thông tin,1,7,1
+16,38,Lý thuyết trò chơi,0,7,1
+16,39,Tâm lí học đại cương,0,7,2
+16,40,Cơ sở văn hóa Việt Nam,0,7,2
+16,41,Xã hội học,0,7,2
+16,42,Tiếng Việt thực hành,0,7,2
+16,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,2
+16,44,Hội họa,0,7,2
+16,45,Những môn chính học kỳ 8,1,8,0
+16,46,Phân tích dữ liệu Bayesian,0,8,1
+16,47,Đảm bảo chất lượng và Kiểm thử phần mềm ,1,8,1
+16,48,Phân tích kinh doanh,0,8,1
+16,49,Giải tích ngẫu nhiên cho tài chính,0,8,1
+16,50,Những môn chính học kỳ 9,1,9,0
+17,1,Những môn chính học kỳ 1,1,1,0
+17,2,Những môn chính học kỳ 2,1,2,0
+17,3,Logic học,0,2,1
+17,4,Phương pháp tính,0,2,1
+17,5,Vật lý đại cương,1,2,1
+17,6,Toán ứng dụng,0,2,1
+17,7,Hàm phức và phép biến đổi Laplace,0,2,1
+17,8,Những môn chính học kỳ 3,1,3,0
+17,9,Kỹ năng xây dựng kế hoạch ,1,3,1
+17,10,Quản trị học,0,3,1
+17,11,Quản trị doanh nghiệp,0,3,1
+17,12,Kế toán cơ bản,0,3,1
+17,13,Môi trường và con người ,0,3,1
+17,14,Giao tiếp kinh doanh,0,3,1
+17,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+17,16,Những môn chính học kỳ 4,1,4,0
+17,17,Giải thuật và tối ưu hoá phân tán,0,4,1
+17,18,Trực quan hóa dữ liệu,0,4,1
+17,19,Đại số tuyến tính tính toán,1,4,1
+17,20,Quá trình ngẫu nhiên,0,4,2
+17,21,Các ngôn ngữ truy vấn cơ sở dữ liệu,0,4,2
+17,22,Kiến trúc hướng dịch vụ và Điện toán đám mây,1,4,2
+17,23,Những môn chính học kỳ 5,1,5,0
+17,24,Phân tích chuỗi thời gian,0,5,1
+17,25,Xử lý ảnh ,0,5,1
+17,26,Kĩ thuật tài chính,0,5,1
+17,27,Những môn chính học kỳ 6,1,6,0
+17,28,Tiếp thị điện tử ,0,6,1
+17,29,Tương tác người máy ,0,6,1
+17,30,Giao dịch định lượng,0,6,1
+17,31,Nhập môn Robot,0,6,1
+17,32,Công nghệ phần mềm ,0,6,2
+17,33,Tính toán song song,0,6,2
+17,34,Khai phá đồ thị,0,6,2
+17,35,Những môn chính học kỳ 7,1,7,0
+17,36,Hệ khuyến nghị,0,7,1
+17,37,Nhập môn an toàn thông tin,0,7,1
+17,38,Lý thuyết trò chơi,0,7,1
+17,39,Tâm lí học đại cương,0,7,2
+17,40,Cơ sở văn hóa Việt Nam,0,7,2
+17,41,Xã hội học,0,7,2
+17,42,Tiếng Việt thực hành,0,7,2
+17,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,2
+17,44,Hội họa,0,7,2
+17,45,Những môn chính học kỳ 8,1,8,0
+17,46,Phân tích dữ liệu Bayesian,0,8,1
+17,47,Đảm bảo chất lượng và Kiểm thử phần mềm ,0,8,1
+17,48,Phân tích kinh doanh,0,8,1
+17,49,Giải tích ngẫu nhiên cho tài chính,0,8,1
+17,50,Những môn chính học kỳ 9,1,9,0
+18,1,Những môn chính học kỳ 1,1,1,0
+18,2,Những môn chính học kỳ 2,1,2,0
+18,3,Logic học,0,2,1
+18,4,Phương pháp tính,1,2,1
+18,5,Vật lý đại cương,0,2,1
+18,6,Toán ứng dụng,0,2,1
+18,7,Hàm phức và phép biến đổi Laplace,0,2,1
+18,8,Những môn chính học kỳ 3,1,3,0
+18,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+18,10,Quản trị học,0,3,1
+18,11,Quản trị doanh nghiệp,0,3,1
+18,12,Kế toán cơ bản,0,3,1
+18,13,Môi trường và con người ,0,3,1
+18,14,Giao tiếp kinh doanh,0,3,1
+18,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,1,3,1
+18,16,Những môn chính học kỳ 4,1,4,0
+18,17,Giải thuật và tối ưu hoá phân tán,0,4,1
+18,18,Trực quan hóa dữ liệu,0,4,1
+18,19,Đại số tuyến tính tính toán,0,4,1
+18,20,Quá trình ngẫu nhiên,0,4,2
+18,21,Các ngôn ngữ truy vấn cơ sở dữ liệu,1,4,2
+18,22,Kiến trúc hướng dịch vụ và Điện toán đám mây,0,4,2
+18,23,Những môn chính học kỳ 5,1,5,0
+18,24,Phân tích chuỗi thời gian,0,5,1
+18,25,Xử lý ảnh ,1,5,1
+18,26,Kĩ thuật tài chính,0,5,1
+18,27,Những môn chính học kỳ 6,1,6,0
+18,28,Tiếp thị điện tử ,0,6,1
+18,29,Tương tác người máy ,0,6,1
+18,30,Giao dịch định lượng,0,6,1
+18,31,Nhập môn Robot,0,6,1
+18,32,Công nghệ phần mềm ,1,6,2
+18,33,Tính toán song song,0,6,2
+18,34,Khai phá đồ thị,0,6,2
+18,35,Những môn chính học kỳ 7,1,7,0
+18,36,Hệ khuyến nghị,0,7,1
+18,37,Nhập môn an toàn thông tin,1,7,1
+18,38,Lý thuyết trò chơi,0,7,1
+18,39,Tâm lí học đại cương,1,7,2
+18,40,Cơ sở văn hóa Việt Nam,0,7,2
+18,41,Xã hội học,0,7,2
+18,42,Tiếng Việt thực hành,0,7,2
+18,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,2
+18,44,Hội họa,0,7,2
+18,45,Những môn chính học kỳ 8,1,8,0
+18,46,Phân tích dữ liệu Bayesian,0,8,1
+18,47,Đảm bảo chất lượng và Kiểm thử phần mềm ,1,8,1
+18,48,Phân tích kinh doanh,0,8,1
+18,49,Giải tích ngẫu nhiên cho tài chính,0,8,1
+18,50,Những môn chính học kỳ 9,1,9,0
+19,1,Những môn chính học kỳ 1,1,1,0
+19,2,Những môn chính học kỳ 2,1,2,0
+19,3,Logic học,0,2,1
+19,4,Phương pháp tính,1,2,1
+19,5,Vật lý đại cương,0,2,1
+19,6,Toán ứng dụng,0,2,1
+19,7,Hàm phức và phép biến đổi Laplace,0,2,1
+19,8,Những môn chính học kỳ 3,1,3,0
+19,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+19,10,Quản trị học,0,3,1
+19,11,Quản trị doanh nghiệp,0,3,1
+19,12,Kế toán cơ bản,0,3,1
+19,13,Môi trường và con người ,1,3,1
+19,14,Giao tiếp kinh doanh,0,3,1
+19,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+19,16,Những môn chính học kỳ 4,1,4,0
+19,17,Giải thuật và tối ưu hoá phân tán,0,4,1
+19,18,Trực quan hóa dữ liệu,0,4,1
+19,19,Đại số tuyến tính tính toán,1,4,1
+19,20,Quá trình ngẫu nhiên,0,4,2
+19,21,Các ngôn ngữ truy vấn cơ sở dữ liệu,0,4,2
+19,22,Kiến trúc hướng dịch vụ và Điện toán đám mây,0,4,2
+19,23,Những môn chính học kỳ 5,1,5,0
+19,24,Phân tích chuỗi thời gian,1,5,1
+19,25,Xử lý ảnh ,0,5,1
+19,26,Kĩ thuật tài chính,0,5,1
+19,27,Những môn chính học kỳ 6,1,6,0
+19,28,Tiếp thị điện tử ,0,6,1
+19,29,Tương tác người máy ,0,6,1
+19,30,Giao dịch định lượng,0,6,1
+19,31,Nhập môn Robot,0,6,1
+19,32,Công nghệ phần mềm ,0,6,2
+19,33,Tính toán song song,0,6,2
+19,34,Khai phá đồ thị,1,6,2
+19,35,Những môn chính học kỳ 7,1,7,0
+19,36,Hệ khuyến nghị,0,7,1
+19,37,Nhập môn an toàn thông tin,0,7,1
+19,38,Lý thuyết trò chơi,0,7,1
+19,39,Tâm lí học đại cương,0,7,2
+19,40,Cơ sở văn hóa Việt Nam,0,7,2
+19,41,Xã hội học,0,7,2
+19,42,Tiếng Việt thực hành,0,7,2
+19,43,Âm nhạc - Nhạc lý và Guitar căn bản,1,7,2
+19,44,Hội họa,0,7,2
+19,45,Những môn chính học kỳ 8,1,8,0
+19,46,Phân tích dữ liệu Bayesian,1,8,1
+19,47,Đảm bảo chất lượng và Kiểm thử phần mềm ,0,8,1
+19,48,Phân tích kinh doanh,0,8,1
+19,49,Giải tích ngẫu nhiên cho tài chính,0,8,1
+19,50,Những môn chính học kỳ 9,1,9,0
+20,1,Những môn chính học kỳ 1,1,1,0
+20,2,Những môn chính học kỳ 2,1,2,0
+20,3,Logic học,0,2,1
+20,4,Phương pháp tính,0,2,1
+20,5,Vật lý đại cương,1,2,1
+20,6,Toán ứng dụng,0,2,1
+20,7,Hàm phức và phép biến đổi Laplace,0,2,1
+20,8,Những môn chính học kỳ 3,1,3,0
+20,9,Kỹ năng xây dựng kế hoạch ,0,3,1
+20,10,Quản trị học,0,3,1
+20,11,Quản trị doanh nghiệp,0,3,1
+20,12,Kế toán cơ bản,1,3,1
+20,13,Môi trường và con người ,0,3,1
+20,14,Giao tiếp kinh doanh,0,3,1
+20,15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,0,3,1
+20,16,Những môn chính học kỳ 4,1,4,0
+20,17,Giải thuật và tối ưu hoá phân tán,0,4,1
+20,18,Trực quan hóa dữ liệu,1,4,1
+20,19,Đại số tuyến tính tính toán,0,4,1
+20,20,Quá trình ngẫu nhiên,0,4,2
+20,21,Các ngôn ngữ truy vấn cơ sở dữ liệu,0,4,2
+20,22,Kiến trúc hướng dịch vụ và Điện toán đám mây,0,4,2
+20,23,Những môn chính học kỳ 5,1,5,0
+20,24,Phân tích chuỗi thời gian,0,5,1
+20,25,Xử lý ảnh ,0,5,1
+20,26,Kĩ thuật tài chính,0,5,1
+20,27,Những môn chính học kỳ 6,1,6,0
+20,28,Tiếp thị điện tử ,0,6,1
+20,29,Tương tác người máy ,0,6,1
+20,30,Giao dịch định lượng,0,6,1
+20,31,Nhập môn Robot,0,6,1
+20,32,Công nghệ phần mềm ,0,6,2
+20,33,Tính toán song song,0,6,2
+20,34,Khai phá đồ thị,0,6,2
+20,35,Những môn chính học kỳ 7,1,7,0
+20,36,Hệ khuyến nghị,0,7,1
+20,37,Nhập môn an toàn thông tin,0,7,1
+20,38,Lý thuyết trò chơi,0,7,1
+20,39,Tâm lí học đại cương,0,7,2
+20,40,Cơ sở văn hóa Việt Nam,0,7,2
+20,41,Xã hội học,0,7,2
+20,42,Tiếng Việt thực hành,0,7,2
+20,43,Âm nhạc - Nhạc lý và Guitar căn bản,0,7,2
+20,44,Hội họa,0,7,2
+20,45,Những môn chính học kỳ 8,1,8,0
+20,46,Phân tích dữ liệu Bayesian,0,8,1
+20,47,Đảm bảo chất lượng và Kiểm thử phần mềm ,0,8,1
+20,48,Phân tích kinh doanh,0,8,1
+20,49,Giải tích ngẫu nhiên cho tài chính,0,8,1
+20,50,Những môn chính học kỳ 9,1,9,0
