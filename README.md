@@ -38,4 +38,14 @@ After the virtual environment is created, you can install the dependencies with 
 pip install -r requirements.txt
 ```
 
+## Start a server
+
+```bash
+### chage directory to the Django project
+cd deploy_ml
+
+### call the manage.py
+python manage.py runserver
+```
+
 Happy coding!
