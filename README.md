@@ -13,7 +13,7 @@ pip install virtualenv
 Then, create a new virtual environment with the following command:
 
 ```bash
-virtualenv .venv
+python -m virtualenv .venv
 ```
 
 ## Start Python virtual environment
@@ -29,5 +29,13 @@ virtualenv .venv
     ```bash
     .venv\Scripts\activate
     ```
+
+## Install dependencies
+
+After the virtual environment is created, you can install the dependencies with the following command:
+
+```bash
+pip install -r requirements.txt
+```
 
 Happy coding!
