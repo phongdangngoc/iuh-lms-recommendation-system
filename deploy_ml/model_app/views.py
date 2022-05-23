@@ -278,7 +278,8 @@ def Model(Major,Semester):
             return obj0, obj1
     else:
         print(obj0)
-        return obj0
+        arr = [obj0]
+        return arr
 
 class Index(APIView):
     def get(self, request):
