@@ -34,8 +34,8 @@ def Model(Major,Semester):
     if Major not in Majors:
         return 
     df_course = pd.read_csv(("..\data\major_"+Major+"_course.csv"),
-        usecols=['CourseID', 'Name', 'Url', 'Code'],
-        dtype={'CourseID': 'int32', 'Name': 'str', 'Url': 'str', 'Code': 'str'})
+        usecols=['CourseID', 'Name', 'Url', 'Code', 'Img'],
+        dtype={'CourseID': 'int32', 'Name': 'str', 'Url': 'str', 'Code': 'str', 'Img': 'str'})
     df_study = pd.read_csv(("..\data\major_"+Major+"_studyornot.csv"),
         usecols=['StudentID', 'CourseID','Name','StudyOrNot','Semester','Group'],
         dtype={'StudentID': 'int32', 'CourseID': 'int32', 'Name': 'str', 'StudyOrNot': 'int32', 'Semester': 'int32','Group': 'int32'})
@@ -118,7 +118,7 @@ def Model(Major,Semester):
         fav_course=my_course,
         mapper=course_to_idx,
         n_recommendations=n_recommendation)
-        globals()[f'obj0'] ={"Name" : recommend_list[0],"Code":df_course.loc[df_course['Name'] == recommend_list[0], 'Code'].iloc[0],"Url":df_course.loc[df_course['Name'] == recommend_list[0], 'Url'].iloc[0]}
+        globals()[f'obj0'] ={"Name" : recommend_list[0],"Code":df_course.loc[df_course['Name'] == recommend_list[0], 'Code'].iloc[0],"Url":df_course.loc[df_course['Name'] == recommend_list[0], 'Url'].iloc[0],"Img":df_course.loc[df_course['Name'] == recommend_list[0], 'Img'].iloc[0]}
     ######### Xong lần nhóm 1
     ######### Tự chọn nhóm 2
     if 2 in df_study.Group.values:
@@ -190,7 +190,7 @@ def Model(Major,Semester):
         fav_course=my_course,
         mapper=course_to_idx,
         n_recommendations=1)
-        globals()[f'obj1'] ={"Name" : recommend_list[0],"Code":df_course.loc[df_course['Name'] == recommend_list[0], 'Code'].iloc[0],"Url":df_course.loc[df_course['Name'] == recommend_list[0], 'Url'].iloc[0]}
+        globals()[f'obj1'] ={"Name" : recommend_list[0],"Code":df_course.loc[df_course['Name'] == recommend_list[0], 'Code'].iloc[0],"Url":df_course.loc[df_course['Name'] == recommend_list[0], 'Url'].iloc[0],"Img":df_course.loc[df_course['Name'] == recommend_list[0], 'Img'].iloc[0]}
         # Trả về mã khóa học : CourseID
         # globals()[f'obj1'] ={"Name" : df_course.loc[df_course['Name'] == recommend_list[0], 'CourseID'].iloc[0],"url":df_course.loc[df_course['Name'] == recommend_list[0], 'Url'].iloc[0]}
     ######### Xong lần nhóm 2
@@ -264,7 +264,7 @@ def Model(Major,Semester):
         fav_course=my_course,
         mapper=course_to_idx,
         n_recommendations=1)
-        globals()[f'obj2'] ={"Name" : recommend_list[0],"Code":df_course.loc[df_course['Name'] == recommend_list[0], 'Code'].iloc[0],"Url":df_course.loc[df_course['Name'] == recommend_list[0], 'Url'].iloc[0]}
+        globals()[f'obj2'] ={"Name" : recommend_list[0],"Code":df_course.loc[df_course['Name'] == recommend_list[0], 'Code'].iloc[0],"Url":df_course.loc[df_course['Name'] == recommend_list[0], 'Url'].iloc[0],"Img":df_course.loc[df_course['Name'] == recommend_list[0], 'Img'].iloc[0]}
     ######### Xong
 
     print("\nCác obj trả về")

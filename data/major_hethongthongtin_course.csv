@@ -1,49 +1,49 @@
-﻿CourseID,Name,Url,Code
-1,Những môn chính học kỳ 1,google.com,1111
-2,Những môn chính học kỳ 2,google.com,1111
-3,Logic học,coursera.org,2113438
-4,Phương pháp tính,coursera.org,2113435
-5,Vật lý đại cương,https://www.amazon.com/General-Physics-2nd-Morton-Sternheim/dp/0471522783,2113437
-6,Toán ứng dụng,coursera.org,2113434
-7,Hàm phức và phép biến đổi Laplace,coursera.org,2113436
-8,Những môn chính học kỳ 3,google.com,1111
-9,Kỹ năng xây dựng kế hoạch,coursera.org,2132002
-10,Quản trị học,coursera.org,2107483
-11,Quản trị doanh nghiệp,coursera.org,2107510
-12,Kế toán cơ bản,coursera.org,2127481
-13,Môi trường và con người,coursera.org,2123800
-14,Giao tiếp kinh doanh,https://www.amazon.com/Business-Communication-Today-Courtland-Bovee/dp/0134562186,2107492
-15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,coursera.org,2101727
-16,Những môn chính học kỳ 4,google.com,1111
-17,Tâm lí học đại cương,coursera.org,2110585
-18,Cơ sở văn hóa Việt Nam,coursera.org,2111491
-19,Xã hội học,coursera.org,2113439
-20,Tiếng Việt thực hành,https://vietbooks.info/threads/tieng-viet-thuc-hanh-nxb-giao-duc-2009-bui-minh-toan-280-trang.27669,2111492
-21,Âm nhạc - Nhạc lý và Guitar căn bản,coursera.org,2112011
-22,Hội họa,coursera.org,2106529
-23,Những môn chính học kỳ 5,google.com,1111
-24,Giao dịch định lượng,coursera.org,2101689
-25,Phân tích định lượng,https://www.amazon.com/Introduction-Data-Analysis-Quantitative-Qualitative/dp/144629515X,2101726
-26,Nguyên lý mô hình hóa định lượng,coursera.org,2101725
-27,Những môn chính học kỳ 6,google.com,1111
-28,Lập trình phân tích dữ liệu 2,coursera.org,2101589
-29,Trực quan hóa dữ liệu,coursera.org,2101678
-30,Tương tác người máy,https://www.amazon.com/Human-Computer-Interaction-Handbook-Fundamentals-Technologies/dp/0805858709,2101428
-31,Kế toán tài chính,coursera.org,2127482
-32,Tiếp thị điện tử,coursera.org,2101544
-33,Hành vi tổ chức,https://www.amazon.com/Essentials-Organizational-Behavior-Stephen-Robbins/dp/0134523857,2107415
-34,Những môn chính học kỳ 7,google.com,1111
-35,Quản trị bán hàng,https://www.amazon.com/Sales-Management-Simplified-audiobook/dp/B012BSHB32,2107490
-36,Nguyên lý quản trị tài chính,coursera.org,2108435
-37,Kế toán quản trị,coursera.org,2127483
-38,Các hệ thống thông minh doanh nghiệp,coursera.org,2101545
-39,Khai thác dữ liệu và ứng dụng,coursera.org,2101627
-40,Cơ sở dữ liệu nâng cao,https://www.amazon.com/Advanced-Database-Systems-Kaufmann-Management/dp/155860443X,2101728
-41,Những môn chính học kỳ 8,google.com,1111
-42,Nhập môn dữ liệu lớn,https://www.amazon.com/Introduction-Big-Data-Vishwajit-Barbudhe/dp/6202530901,2101582
-43,Nguyên lý các hệ cơ sở dữ liệu,coursera.org,2101729
-44,Kiến trúc hướng dịch vụ và Điện toán đám mây,coursera.org,2101661
-45,Quản lý quy trình nghiệp vụ,coursera.org,2101537
-46,Quản trị nguồn nhân lực,https://www.amazon.com/Human-Resource-Management-Sean-Valentine/dp/035703385X,2107420
-47,Kiểm toán cơ bản,coursera.org,2127439
-48,Những môn chính học kỳ 9,google.com,1111
+﻿CourseID,Name,Url,Code,Img
+1,Những môn chính học kỳ 1,google.com,1111,google.com
+2,Những môn chính học kỳ 2,google.com,1111,google.com
+3,Logic học,coursera.org,2113438,google.com
+4,Phương pháp tính,coursera.org,2113435,google.com
+5,Vật lý đại cương,https://www.amazon.com/General-Physics-2nd-Morton-Sternheim/dp/0471522783,2113437,"https://images-na.ssl-images-amazon.com/images/I/51ghO6RhKUL._SX377_BO1,204,203,200_.jpg"
+6,Toán ứng dụng,coursera.org,2113434,google.com
+7,Hàm phức và phép biến đổi Laplace,coursera.org,2113436,google.com
+8,Những môn chính học kỳ 3,google.com,1111,google.com
+9,Kỹ năng xây dựng kế hoạch,coursera.org,2132002,google.com
+10,Quản trị học,coursera.org,2107483,google.com
+11,Quản trị doanh nghiệp,coursera.org,2107510,google.com
+12,Kế toán cơ bản,coursera.org,2127481,google.com
+13,Môi trường và con người,coursera.org,2123800,google.com
+14,Giao tiếp kinh doanh,https://www.amazon.com/Business-Communication-Today-Courtland-Bovee/dp/0134562186,2107492,"https://images-na.ssl-images-amazon.com/images/I/51SqrrJ43YL._SX385_BO1,204,203,200_.jpg"
+15,Kỹ năng sử dụng bàn phím và thiết bị văn phòng,coursera.org,2101727,google.com
+16,Những môn chính học kỳ 4,google.com,1111,google.com
+17,Tâm lí học đại cương,coursera.org,2110585,google.com
+18,Cơ sở văn hóa Việt Nam,coursera.org,2111491,google.com
+19,Xã hội học,coursera.org,2113439,google.com
+20,Tiếng Việt thực hành,https://vietbooks.info/threads/tieng-viet-thuc-hanh-nxb-giao-duc-2009-bui-minh-toan-280-trang.27669,2111492,https://vietbooks.info/attachments/upload_2021-10-5_15-29-34-png.2489/
+21,Âm nhạc - Nhạc lý và Guitar căn bản,coursera.org,2112011,google.com
+22,Hội họa,coursera.org,2106529,google.com
+23,Những môn chính học kỳ 5,google.com,1111,google.com
+24,Giao dịch định lượng,coursera.org,2101689,google.com
+25,Phân tích định lượng,https://www.amazon.com/Introduction-Data-Analysis-Quantitative-Qualitative/dp/144629515X,2101726,"https://images-na.ssl-images-amazon.com/images/I/51iSnYE74rL._SX346_BO1,204,203,200_.jpg"
+26,Nguyên lý mô hình hóa định lượng,coursera.org,2101725,google.com
+27,Những môn chính học kỳ 6,google.com,1111,google.com
+28,Lập trình phân tích dữ liệu 2,coursera.org,2101589,google.com
+29,Trực quan hóa dữ liệu,coursera.org,2101678,google.com
+30,Tương tác người máy,https://www.amazon.com/Human-Computer-Interaction-Handbook-Fundamentals-Technologies/dp/0805858709,2101428,"https://images-na.ssl-images-amazon.com/images/I/41C-v1rB7VL._SX376_BO1,204,203,200_.jpg"
+31,Kế toán tài chính,coursera.org,2127482,google.com
+32,Tiếp thị điện tử,coursera.org,2101544,google.com
+33,Hành vi tổ chức,https://www.amazon.com/Essentials-Organizational-Behavior-Stephen-Robbins/dp/0134523857,2107415,"https://images-na.ssl-images-amazon.com/images/I/41sPVRkh5mL._SX402_BO1,204,203,200_.jpg"
+34,Những môn chính học kỳ 7,google.com,1111,google.com
+35,Quản trị bán hàng,https://www.amazon.com/Sales-Management-Simplified-audiobook/dp/B012BSHB32,2107490,https://m.media-amazon.com/images/I/51zZnKhSp6L.jpg
+36,Nguyên lý quản trị tài chính,coursera.org,2108435,google.com
+37,Kế toán quản trị,coursera.org,2127483,google.com
+38,Các hệ thống thông minh doanh nghiệp,coursera.org,2101545,google.com
+39,Khai thác dữ liệu và ứng dụng,coursera.org,2101627,google.com
+40,Cơ sở dữ liệu nâng cao,https://www.amazon.com/Advanced-Database-Systems-Kaufmann-Management/dp/155860443X,2101728,"https://images-na.ssl-images-amazon.com/images/I/41NqjRUN2RL._SX365_BO1,204,203,200_.jpg"
+41,Những môn chính học kỳ 8,google.com,1111,google.com
+42,Nhập môn dữ liệu lớn,https://www.amazon.com/Introduction-Big-Data-Vishwajit-Barbudhe/dp/6202530901,2101582,"https://images-na.ssl-images-amazon.com/images/I/41GqjOelE-L._SX334_BO1,204,203,200_.jpg"
+43,Nguyên lý các hệ cơ sở dữ liệu,coursera.org,2101729,google.com
+44,Kiến trúc hướng dịch vụ và Điện toán đám mây,coursera.org,2101661,google.com
+45,Quản lý quy trình nghiệp vụ,coursera.org,2101537,google.com
+46,Quản trị nguồn nhân lực,https://www.amazon.com/Human-Resource-Management-Sean-Valentine/dp/035703385X,2107420,"https://images-na.ssl-images-amazon.com/images/I/51I0o18bu8L._SX504_BO1,204,203,200_.jpg"
+47,Kiểm toán cơ bản,coursera.org,2127439,google.com
+48,Những môn chính học kỳ 9,google.com,1111,google.com
